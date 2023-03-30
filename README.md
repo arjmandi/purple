@@ -1,20 +1,8 @@
 # Purple
 
-Turing test is not complete: an AGI should not talk like a normal person, but the most intelligent perosn we’ve ever seen. 
+Around two weeks ago, Apr 25th [2022] to Fri the 29th, was the ICLR 2022, one of the most important events of introducing cutting-edge achievements in AI, sponsored by DeepMind, Google Research, Two Sigma, Microsoft, Meta, etc. DeepMind published an overview of their papers this year in [this post](https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2022).
 
-importance of vision papers
-
-[https://scienceplusplus.org/visions/index.html?utm_campaign=Matt's Thoughts In Between&utm_medium=email&utm_source=Revue newsletter](https://scienceplusplus.org/visions/index.html?utm_campaign=Matt%27s%20Thoughts%20In%20Between&utm_medium=email&utm_source=Revue%20newsletter)
-
-I think the key for a better AI is to model the way learn and represent things not the structure of our brain
-
-How each person builds its understanding and starts to generalize
-
-my intuition → deepmind work → prediction
-
-Around two weeks ago, Apr 25th to Fri the 29th, was the ICLR 2022, one of the most important events of introducing cutting-edge achievements in AI, sponsored by DeepMind, Google Research, Two Sigma, Microsoft, Meta, etc. DeepMind published an overview of their papers this year in [this post](https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2022).
-
-In the past couple of months, I came up with ideas based on my intuitions and research, which I found similar in some senses to what DeepMind has published recently. This convergence of ideas toward creating a better AI/AGI, especially in the "[BOOTSTRAPPED META-LEARNING](https://openreview.net/pdf?id=b-ny3x071E5)" was exciting. I found this excitement as an opportunity to articulate these ideas as a basis for more research. Although the Gato and DALL-E are at the center of attention now these ideas are not in this direction.
+In the past couple of months, I came up with ideas based on my intuitions and research, which I found similar in some senses to what DeepMind has published recently. This convergence of ideas toward creating a better AI/AGI, especially in the "[BOOTSTRAPPED META-LEARNING](https://openreview.net/pdf?id=b-ny3x071E5)" was exciting. I found this excitement as an opportunity to articulate these ideas as a basis for more research. Although the Gato and DALL-E are at the center of attention, these ideas are not in the direction of Gato or DALL-E.
 
 domain-specific transferrable intelligence
 
@@ -136,3 +124,16 @@ we need a little bad memory
 
 Better understanding intelligence
 [https://kirkegaard.substack.com/p/iq-can-be-increased-by-more-education](https://kirkegaard.substack.com/p/iq-can-be-increased-by-more-education)
+
+# Visionary papers
+Turing test is not complete: an AGI should not talk like a normal person, but the most intelligent perosn we’ve ever seen. 
+
+importance of vision papers
+
+[https://scienceplusplus.org/visions/index.html?utm_campaign=Matt's Thoughts In Between&utm_medium=email&utm_source=Revue newsletter](https://scienceplusplus.org/visions/index.html?utm_campaign=Matt%27s%20Thoughts%20In%20Between&utm_medium=email&utm_source=Revue%20newsletter)
+
+I think the key for a better AI is to model the way learn and represent things not the structure of our brain
+
+How each person builds its understanding and starts to generalize
+
+my intuition → deepmind work → prediction
