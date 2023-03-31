@@ -132,7 +132,7 @@ Better understanding intelligence
 # Explainability
 Designing AGI is by itself hard and embedding explainability from the beginning makes it less practical.
 The fact that we humans, as a benchmark of intelligence,  struggle to explain why we do something is the core of the unnecessary complexity. 
-
+The non-deterministic nature if our decision-making process is a key for intelligence. (e.g. Even most sophisticated humans might do unreasonable things) So I will exclude explainability from this research and propose to use control mechanisms that help us stay safe rather than having a white-boxed analysis of AI decision making.
  
 # Open Topics
 1. Staying alive: should the model show a will to live?
