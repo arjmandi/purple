@@ -3,7 +3,7 @@ A vision paper, outlining a model to implement AGI.
 
 # Intelligence
 
-It's clear that "*defining intelligence*" can play a critical role in "*creating intelligence*." How can we define intelligence? 
+Defining intelligence can play a critical role in "*creating intelligence*." How can we define intelligence? 
 
 And there are various domains in which we can [define intelligence](https://en.wikipedia.org/wiki/Intelligence): emotional, social, street smart, etc. 
 Which one do we mean by general intelligence?
