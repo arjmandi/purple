@@ -1,11 +1,6 @@
 # Purple
 ## Intro
-This work has started over a year ago, I summerized it and summ
-purple contradictions amongst cohesion and cohisive. individual and society. want and need. 
-
-
-
-
+Purple is a vision paper, outlining a model to implement AGI.
 
 # Intelligence
 
@@ -42,6 +37,10 @@ Marvec paradox
 What intelligence are we building ? Dumb, normal, intelligent 
 
 ## Live Free Models
+
+## The name, Purple
+Purple contradictions amongst cohesion and cohisive. individual and society. want and need. 
+
 
 ## Subjective intelligence
 
@@ -163,16 +162,16 @@ My definition of AGI is not when it's indistinguishable from a human in conversa
 
 # Personal Motivation Story
 The Motivation of this work, beside the Asimov novels and years of working on AI projects, started in October 2021. 
-AI has always been a part of my professional career, but it was the first conversation topic that I had with the person that I love. 
+AI has always been a part of my professional career, but it was the first conversation topic that I had with the person I love. 
 
 In October 2021 something terrible happened, and it made something inside me to flip. I wasn't aware of it, but that event made me work on AI more than before in my free time, unconsciously. Months later, I noticed it in myself. I was thinking that if I create AI, that first conversation will be restored and love will find its way to me.
 
 
-It might seem cool to work on AGI, but it was also mad and unrealistic, starting from nothing and from nowhere. At that period, our data team at [Eveince](https://eveince.com) was working on graph neural networks to build a better representation of texts for better understanding of financial advice given by experts on the internet [here](https://arxiv.org/abs/2211.16103). I thought of graphs more seriously. But then I came to the conclusion that graphs inherently and generally are not a good tool to represent behaviour when they represent data and vice versa [On the Edge #5](https://arjmandi.substack.com/p/on-the-edge-5). 
+It might seem cool to work on AGI, but it was also mad and unrealistic, starting from nothing and from nowhere. At that period, our data team at [Eveince](https://eveince.com) was working on graph neural networks to build a better representation of texts for better understanding of financial advice given by experts on the internet [here](https://arxiv.org/abs/2211.16103). and I was reading about and thinking about graphs networks. But then I came to the conclusion that graphs inherently and generally are not a good tool to represent behaviour when they represent data and vice versa [On the Edge #5](https://arjmandi.substack.com/p/on-the-edge-5). 
 
-This wasn't a step toward a design, rather a step toward removing designs that don't work. This led me to even go further and leave most of the current architecture behind (which was a risky decision) but then again small lights in the path like [this twee](https://twitter.com/ylecun/status/1492604977260412928) from LeCunn kept me going. Studying Deepmind and OpenAI works has also made me to draw some predictions over the next months, not to feel good about my predictions but to see if I was right and current architectures are not enough, where they're going to end up, which helps me to find the design that might work.  (On the Edge #11)[https://arjmandi.substack.com/p/on-the-edge-11]. 
+This wasn't a step toward a design, rather a step toward removing designs that don't work. This led me to read more and search more where I found almost all of the available network architectures empty of characteristics I was looking for but then again small lights in the path like [this tweet](https://twitter.com/ylecun/status/1492604977260412928) from LeCunn kept me going. Studying Deepmind and OpenAI works has also made me draw some predictions over the next months, not to feel good about my predictions but to see if I was right and current architectures are not what I'm looking for, this might help me to find the design.  (On the Edge #11)[https://arjmandi.substack.com/p/on-the-edge-11]. 
 
 
 On April 25th 2022, the ICLR 2022 was held. One of the most important events of introducing cutting-edge achievements in AI, sponsored by DeepMind, Google Research, Two Sigma, Microsoft, Meta, etc. DeepMind published an overview of their papers for ICLR in [this post](https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2022). And I started to see a convergence between my findings and what was reflected in the "[BOOTSTRAPPED META-LEARNING](https://openreview.net/pdf?id=b-ny3x071E5)". 
 
-I articulated my ideas as a basis for more research even though interesting works at the time like Gato and DALL-E were on a different path. They've progressed dramatically over the past year into new versions or models like PALM-E. I categorize them as new computation tools, and for AGI I took another direction which has been depicted in Purple.
+I articulated my ideas as a basis for more research even though interesting works at the time like Gato and DALL-E were on a different path. They've progressed dramatically over the past year into new versions or models like PALM-E. I categorize them as new computation tools, and for AGI I took another direction which has been depicted here as Purple.
