@@ -1,9 +1,11 @@
 # Purple
-A vision paper, outlining a model to implement AGI.
+Outlining a model to implement AGI
+## Abstract
+This work is a speculation of a system or systems that allow the emergence of behaviors which can be considered as intelligent behavior. Although it might be more similar to a sci-fi story, but recent achievements and the research momentum on AGI topic almost guarantee that many of these intelligent behaviors actually emerge from the tools we build.
 
-# Intelligence
-
-Defining intelligence can play a critical role in "*creating intelligence*." How can we define intelligence? 
+[asimov]
+# Definition
+Perhaps defining intelligence is the key to create intelligence.
 
 And there are various domains in which we can [define intelligence](https://en.wikipedia.org/wiki/Intelligence): emotional, social, street smart, etc. 
 Which one do we mean by general intelligence?
