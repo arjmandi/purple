@@ -1,11 +1,11 @@
 # Purple
-
-
-domain-specific transferrable intelligence
-
-live free models
+## Intro
 
 purple contradictions amongst cohesion and cohisive. individual and society. want and need. 
+
+
+## live free models
+
 
 # Intelligence
 
