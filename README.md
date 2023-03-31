@@ -1,11 +1,22 @@
 # Purple
-*A vision paper, outlining a model to implement AGI.*
+A vision paper, outlining a model to implement AGI.
 
 # Intelligence
 
-It's obvious that "*defining intelligence*" can play a critical role in "*creating intelligence*." How are we going to define intelligence? That's another story.
+It's clear that "*defining intelligence*" can play a critical role in "*creating intelligence*." How can we define intelligence? 
 
-There are various domains in which we can [define intelligence](https://en.wikipedia.org/wiki/Intelligence): emotional, social, street smart, etc. Also, there’s the famous Turing test to recognize artificial intelligence. But which of these many definitions of intelligence can help us describe the "*sense of intelligence*"? Things that make us call some behavior intelligent when we see it. This is one of the topics I've been curious about for quite a time. My ideas to define intelligence, form around three main concepts:
+There are various domains in which we can [define intelligence](https://en.wikipedia.org/wiki/Intelligence): emotional, social, street smart, etc. 
+
+We can also refer to the famous Turing test to define (artificial) intelligence, but with the recent language models we may build a system that can be indistinguishable from human when we chat with it.
+[openai and deepmind definitions of intelligence] 
+
+I point out another aspect of the Turing test that is not related to the AI system but to the person that interacts with it.
+
+Alan Turing used conversation and language as an interface
+which of these many definitions of intelligence can help us describe the "*sense of intelligence*"? Things that make us call some behavior intelligent when we see it. This is one of the topics I've been curious about for quite a time. 
+
+
+My ideas to define intelligence, form around three main concepts:
 
 **Concept 1.** Our intelligence is limited to a "**domain-set**": meaning we can't apply the same amount of intelligence to everything in life. Someone is maybe very good with her muscle memory in playing the piano but not very sharp in understanding chemistry or even not as good with another instrument like a guitar. Even a high IQ person may be very good at science but cannot perform the best surgery while being a Nobel prize-winning physicist. A "domain-set" is a term I use to identify the set of domains that we consider someone intelligent at.
 
