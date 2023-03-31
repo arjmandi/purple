@@ -1,6 +1,5 @@
 # Purple
-## Intro
-Purple is a vision paper, outlining a model to implement AGI.
+* A vision paper, outlining a model to implement AGI.*
 
 # Intelligence
 
