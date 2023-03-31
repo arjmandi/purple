@@ -5,15 +5,18 @@ A vision paper, outlining a model to implement AGI.
 
 It's clear that "*defining intelligence*" can play a critical role in "*creating intelligence*." How can we define intelligence? 
 
-There are various domains in which we can [define intelligence](https://en.wikipedia.org/wiki/Intelligence): emotional, social, street smart, etc. 
+And there are various domains in which we can [define intelligence](https://en.wikipedia.org/wiki/Intelligence): emotional, social, street smart, etc. 
+Which one do we mean by general intelligence?
 
-We can also refer to the famous Turing test to define (artificial) intelligence, but with the recent language models we may build a system that can be indistinguishable from human when we chat with it.
+We can refer to the famous Turing test to define (artificial) intelligence, but with the recent language models we've built systems that can be indistinguishable from human when we chat with them.
 [openai and deepmind definitions of intelligence] 
 
-I point out another aspect of the Turing test that is not related to the AI system but to the person that interacts with it.
+I argue that the key is in the Turing test. What Turing has done was to build a qualitative measure to see if we have built an intelligent system or not and based on that definition we have built an intelligent system.
 
-Alan Turing used conversation and language as an interface
-which of these many definitions of intelligence can help us describe the "*sense of intelligence*"? Things that make us call some behavior intelligent when we see it. This is one of the topics I've been curious about for quite a time. 
+But we can also expand that definition to our "perception" not just conversation. We can call a system intelligent if we percive intelligent behavior from it, not just conversing intelligently.
+
+I call it the "*sense of intelligence*": Things that make us call some behavior intelligent and I use this definition as one of the metrics to evaluate either a system is intelligent or not. 
+If we consider different senses we expect a system to show, then we can rank different account systems in terms of their coverage on different senses.
 
 
 My ideas to define intelligence, form around three main concepts:
