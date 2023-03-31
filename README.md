@@ -18,8 +18,8 @@ But we can also expand that definition to our "perception" not just conversation
 I call it the "*sense of intelligence*": Things that make us call some behavior intelligent and I use this definition as one of the metrics to evaluate either a system is intelligent or not. 
 If we consider different senses we expect a system to show, then we can rank different account systems in terms of their coverage on different senses.
 
-
-My ideas to define intelligence, form around three main concepts:
+# Design concepts 
+I introduce three main concepts:
 
 **Concept 1.** Our intelligence is limited to a "**domain-set**": meaning we can't apply the same amount of intelligence to everything in life. Someone is maybe very good with her muscle memory in playing the piano but not very sharp in understanding chemistry or even not as good with another instrument like a guitar. Even a high IQ person may be very good at science but cannot perform the best surgery while being a Nobel prize-winning physicist. A "domain-set" is a term I use to identify the set of domains that we consider someone intelligent at.
 
