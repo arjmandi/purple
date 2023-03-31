@@ -1,23 +1,23 @@
 # Purple
 ## Intro
-
+This work has started over a year ago, I summerized it and summ
 purple contradictions amongst cohesion and cohisive. individual and society. want and need. 
 
 
-## live free models
+
 
 
 # Intelligence
 
 It's obvious that "*defining intelligence*" can play a critical role in "*creating intelligence*." How are we going to define intelligence? That's another story.
 
-There are various domains in which we can [define intelligence](https://en.wikipedia.org/wiki/Intelligence): emotional, social, street smart, etc. Also, there’s the famous Turing test to recognize artificial intelligence. But which of these many definitions of intelligence can help us describe the "*sense of intelligence*"? Things that make us call some behavior intelligent when we see it. This is one of the topics I've been curious about for quite a time. My ideas to define intelligence, form around three main concepts:
+There are various domains in which we can [define intelligence](https://en.wikipedia.org/wiki/Intelligence): emotional, social, street smart, etc. Also, there’s the famous Turing test to recognize artificial intelligence. But which of these many definitions of intelligence can help us describe the "*sense of intelligence*"? Things that make us call some behavior intelligent when we see it. This is one of the topics I've been curious about for quite a time. My ideas to define intelligence, form around three main concepts:
 
-**Concept 1.** Our intelligence is limited to a "**domain-set**": meaning we can't apply the same amount of intelligence to everything in life. Someone is maybe very good with her muscle memory in playing the piano but not very sharp in understanding chemistry or even not as good with another instrument like a guitar. Even a high IQ person may be very good at science but cannot perform the best surgery while being a Nobel prize-winning physicist. A "domain-set" is a term I use to identify the set of domains that we consider someone intelligent at.
+**Concept 1.** Our intelligence is limited to a "**domain-set**": meaning we can't apply the same amount of intelligence to everything in life. Someone is maybe very good with her muscle memory in playing the piano but not very sharp in understanding chemistry or even not as good with another instrument like a guitar. Even a high IQ person may be very good at science but cannot perform the best surgery while being a Nobel prize-winning physicist. A "domain-set" is a term I use to identify the set of domains that we consider someone intelligent at.
 
 **Concept 2. Physics, live, dynamic**: An intelligent person has the ability to make sense of symbols in a math formula and see the end result, recognize the dynamics of a game, understand how to be good at some sport, etc. In any domain-set, there's ruling physic of how things are connected to each other and how we can exploit them to our benefit.
 
-**Concept 3.** Intelligence can be **learned**: When an intelligent person finds the physics of a domain-set and exploits it to her benefit, we learn from them.
+**Concept 3.** Intelligence can be **learned**: When an intelligent person finds the physics of a domain-set and exploits it to her benefit, we learn from them.
 
 With these concept definitions, we'll go to the next section about two ideas: "Subjective intelligence" and "Artificial Curiosity". I will also mention how these ideas, concepts, and definitions are related to ideas from DeepMind papers.
 
@@ -41,21 +41,23 @@ Marvec paradox
 
 What intelligence are we building ? Dumb, normal, intelligent 
 
+## Live Free Models
+
 ## Subjective intelligence
 
-If we assume C1 and C2 are correct, in every situation, an intelligent system knows the winning function. There's no general way of learning everything. In any "domain-set", there's a ruling physics, the system exploits that physic to its advantage (the scary part of AGI).
+If we assume C1 and C2 are correct, in every situation, an intelligent system knows the winning function. There's no general way of learning everything. In any "domain-set", there's ruling physics, the system exploits that physic to its advantage (the scary part of AGI).
 
-This also shows if the system cannot figure out the physics, it can not understand it (just like us humans).
+This also shows if the system can not figure out the physics, it can not understand it (just like us humans).
 
 But if we scale the system to a point that can model complex huge "domain sets", it can find a way to travel to new galaxies, or how solve the climate crisis?
 
-If intelligence is to find patterns and turn the dynamics into a game, how can we build a system that can do that?
+If intelligence is, to find patterns and turn the dynamics into a game, how can we build a system that can do that?
 
 1. Ultimate game results are not defined by the system (winning is obvious and clear: a car that moves from one place to another, a game to win, a successful trade), so if there's not a winning definition, the task is harder, subjective and is not a good example of a generic intelligence
 2. genius works, like understanding the secrets of the universe are things that can be resolved, traveling to far galaxies, etc. they are questions that should be entered to this machine, that machine provides us the answer, we don't understand it, but we can use it
 3. (not necessarily related to this idea: we may don't need big memories for AGI, if people see a number keypad they memorize numbers better, so we don't memorize because we don't need it. Laziness is important for intelligence. Also, pain→we use pain to find our way. We constantly minimize pain. maybe this is a key to building the AGI)
 
-difference between average agents and genius agents
+
 
 ## Artificial curiosity
 
@@ -70,9 +72,9 @@ If you don't see unexpected behavior, there's no curiosity, And if curiosity is 
 - [Defending Against Image Corruptions Through Adversarial Augmentations | OpenReview](https://openreview.net/forum?id=jJOjjiZHy3h)
 - [https://openreview.net/pdf?id=jJOjjiZHy3h](https://openreview.net/pdf?id=jJOjjiZHy3h)
 
-[https://openreview.net/pdf?id=b-ny3x071E5](https://openreview.net/pdf?id=b-ny3x071E5)
 
-2022: Deepmind releases paper on bootstrapped meta-learning and scaling RL agents 2023: RL agent trained for multi-task learning solves the majority of perfect information games. It's a scaled-up decision transformer. Scaling laws for RL agents are discovered, similar to language models. 2024: Large scale RL agents are combined with frozen vision and language models via cross-attention, can be prompted one-shot with language/vision tokens to solve novel tasks. 2025: RL agents enter the real world - first pre-trained in diverse synthetic environments, then via imitation learning from youtube videos, and finally in an online fashion via real-time human interaction
+
+
 
 Yann lecun model
 
@@ -82,11 +84,11 @@ Yann lecun model
 
 I think we don't put enough research on this part and we jump too fast to implement intelligence. This is how actually business world works: Implement what works, do things that don't scale, etc. then we'll figure out where to go after that.
 
-Now that we've [built big models](https://arxiv.org/pdf/2203.15556.pdf), and we're lining up GPU racks can also be a good opportunity to look for other ways too.
+Now that we've[built big models](https://arxiv.org/pdf/2203.15556.pdf), and we're lining up GPU racks can also be a good opportunity to look for other ways too.
 
 - --
 
-staying alive, minimize pain, boredom, laziness
+
 
 smart people see some patterns and connections to exploit. many of the hard problems get solved this way. a way of designing intelligence. and on the side it raises a question that are these connections these people make related to their brain structure? are the connection that people with high eq make related to their brian?
 
@@ -94,7 +96,8 @@ We don't just need AI, we also need explainability
 
 [https://www.linkedin.com/posts/yann-lecun_ai-activity-6932436820454502400-hV39/?utm_source=linkedin_share&utm_medium=android_app](https://www.linkedin.com/posts/yann-lecun_ai-activity-6932436820454502400-hV39/?utm_source=linkedin_share&utm_medium=android_app)
 
-ai can beat us all
+
+
 
 [https://www.cold-takes.com/ai-could-defeat-all-of-us-combined](https://www.cold-takes.com/ai-could-defeat-all-of-us-combined)
 
@@ -109,9 +112,9 @@ As a researcher in the field, I don't find definitions like "adaptive behavior" 
 
 [*Despite observing intelligence among other species, the way I see intelligence works amongst us humans is 1) a combination of different abilities and behaviors and 2) certainly not the ability to drive, eat, etc ..*]
 
-+++ key
 
-Stories aren’t real, and yet they’re meaningful: how we create mental paths between two abstract concepts and later on use them for other concepts
+
+
 
 **Imagination in the AGI**
 
@@ -136,22 +139,23 @@ Better understanding intelligence
 [Yann LeCun's Paper on creating autonomous machines](https://datasciencelearningcenter.substack.com/p/yann-lecuns-paper-on-creating-autonomous)
 
 [pdf](https://openreview.net/pdf?id=BZ5a1r-kVsf)
+
  
+# Open Topics
+1. Staying alive 
+2. Minimize pain 
+3. Boredom 
+4. Laziness 
+5. Difference between average agents and genius agents
 
-
-# Visionary papers
-Turing test is not complete: an AGI should not talk like a normal person, but the most intelligent perosn we’ve ever seen. 
-
+# Vision papers
 importance of vision papers
 
 [https://scienceplusplus.org/visions/index.html](https://scienceplusplus.org/visions/index.html)
 
 I think the key for a better AI is to model the way learn and represent things not the structure of our brain
-
 How each person builds its understanding and starts to generalize
-
-
-
+Stories aren’t real, and yet they’re meaningful: how we create mental paths between two abstract concepts and later on use them for other concepts
 # Goal: An alternative to the Turing test
 If I don't set a tangible goal, this project will be either too ambitious or become saturated too early. There's a need to define the final goal.
 
@@ -159,11 +163,16 @@ My definition of AGI is not when it's indistinguishable from a human in conversa
 
 # Personal Motivation Story
 The Motivation of this work, beside the Asimov novels and years of working on AI projects, started in October 2021. 
-AI has always been a part of my professional career, but it was the first conversation that I had with the person that I love. In October 2021 something terrible happened, and it made something inside me to flip.  I wasn't aware of it, but I unconsciously was working on AI in my free times thinking that if I create it, love will find the way to me.
-It might seem cool, but it was also mad and unrealistic, starting from nothing and from nowhere. 
+AI has always been a part of my professional career, but it was the first conversation topic that I had with the person that I love. 
 
-At that period, our data team at [Eveince](https://eveince.com) was working on graph neural networks to build a better representation of texts for better understanding of financial advices given by experts on the internet [here](https://arxiv.org/abs/2211.16103). And I was thinking that despite that how graphs inheretly and generally are not a good tool to represent behaviour when they represent data and vice versa [On the Edge #11](https://arjmandi.substack.com/p/on-the-edge-5). This wasn't a step toward the design rather than removing things out of the way. But I also started to think more about what makes us intelligent. 
+In October 2021 something terrible happened, and it made something inside me to flip. I wasn't aware of it, but that event made me work on AI more than before in my free time, unconsciously. Months later, I noticed it in myself. I was thinking that if I create AI, that first conversation will be restored and love will find its way to me.
 
-On Apr 25th [2022] to Fri the 29th, was the ICLR 2022, one of the most important events of introducing cutting-edge achievements in AI, sponsored by DeepMind, Google Research, Two Sigma, Microsoft, Meta, etc. DeepMind published an overview of their papers this year in [this post](https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2022). And I started to see a convergance between my findings and what was reflected in the "[BOOTSTRAPPED META-LEARNING](https://openreview.net/pdf?id=b-ny3x071E5)". 
 
-I articulated my ideas as a basis for more research even-though the Gato and DALL-E were at the center of attention, and I respected them as good solutions, but I was taking another direction which has been depicted in Purple.
+It might seem cool to work on AGI, but it was also mad and unrealistic, starting from nothing and from nowhere. At that period, our data team at [Eveince](https://eveince.com) was working on graph neural networks to build a better representation of texts for better understanding of financial advice given by experts on the internet [here](https://arxiv.org/abs/2211.16103). I thought of graphs more seriously. But then I came to the conclusion that graphs inherently and generally are not a good tool to represent behaviour when they represent data and vice versa [On the Edge #5](https://arjmandi.substack.com/p/on-the-edge-5). 
+
+This wasn't a step toward a design, rather a step toward removing designs that don't work. This led me to even go further and leave most of the current architecture behind (which was a risky decision) but then again small lights in the path like [this twee](https://twitter.com/ylecun/status/1492604977260412928) from LeCunn kept me going. Studying Deepmind and OpenAI works has also made me to draw some predictions over the next months, not to feel good about my predictions but to see if I was right and current architectures are not enough, where they're going to end up, which helps me to find the design that might work.  (On the Edge #11)[https://arjmandi.substack.com/p/on-the-edge-11]. 
+
+
+On April 25th 2022, the ICLR 2022 was held. One of the most important events of introducing cutting-edge achievements in AI, sponsored by DeepMind, Google Research, Two Sigma, Microsoft, Meta, etc. DeepMind published an overview of their papers for ICLR in [this post](https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2022). And I started to see a convergence between my findings and what was reflected in the "[BOOTSTRAPPED META-LEARNING](https://openreview.net/pdf?id=b-ny3x071E5)". 
+
+I articulated my ideas as a basis for more research even though interesting works at the time like Gato and DALL-E were on a different path. They've progressed dramatically over the past year into new versions or models like PALM-E. I categorize them as new computation tools, and for AGI I took another direction which has been depicted in Purple.
