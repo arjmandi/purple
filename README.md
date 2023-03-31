@@ -150,20 +150,20 @@ I think the key for a better AI is to model the way learn and represent things n
 
 How each person builds its understanding and starts to generalize
 
-my intuition → deepmind work → prediction
 
 
-# Alternative to Turing test
-Either we use LFM or not, I propose that we can call something AGI not when it's indistinguishable from a human in conversation but when it can design another AGI
+# Goal: An alternative to the Turing test
+If I don't set a tangible goal, this project will be either too ambitious or become saturated too early. There's a need to define the final goal.
+
+My definition of AGI is not when it's indistinguishable from a human in conversation but when it can design another AGI. This definition seems so simple that I believe somebody else has thought about it before me. So in that case, I too give my vote to this definition of AGI.
 
 # Personal Motivation Story
-For me, beside the Asimov novels and years of working on AI projects, this specific work started on Novemeber 2021 as thread of thoughts and ideas where I did initial research and try to come up with a model that can address AGI on November 2021. At the time our data team at [Eveince](https://eveince.com) was working graph neural networks to build a better represntation of text data and relation of concepts for understanding textual financial comments [here](https://arxiv.org/abs/2211.16103).
+The Motivation of this work, beside the Asimov novels and years of working on AI projects, started in October 2021. 
+AI has always been a part of my professional career, but it was the first conversation that I had with the person that I love. In October 2021 something terrible happened, and it made something inside me to flip.  I wasn't aware of it, but I unconsciously was working on AI in my free times thinking that if I create it, love will find the way to me.
+It might seem cool, but it was also mad and unrealistic, starting from nothing and from nowhere. 
 
-AGI might be defined as something that can pass the Turing test but with recent progress most researchers are re-thinking that[^1]. 
+At that period, our data team at [Eveince](https://eveince.com) was working on graph neural networks to build a better representation of texts for better understanding of financial advices given by experts on the internet [here](https://arxiv.org/abs/2211.16103). And I was thinking that despite that how graphs inheretly and generally are not a good tool to represent behaviour when they represent data and vice versa [On the Edge #11](https://arjmandi.substack.com/p/on-the-edge-5). This wasn't a step toward the design rather than removing things out of the way. But I also started to think more about what makes us intelligent. 
 
-On Apr 25th [2022] to Fri the 29th, was the ICLR 2022, one of the most important events of introducing cutting-edge achievements in AI, sponsored by DeepMind, Google Research, Two Sigma, Microsoft, Meta, etc. DeepMind published an overview of their papers this year in ([this post](https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2022)).
+On Apr 25th [2022] to Fri the 29th, was the ICLR 2022, one of the most important events of introducing cutting-edge achievements in AI, sponsored by DeepMind, Google Research, Two Sigma, Microsoft, Meta, etc. DeepMind published an overview of their papers this year in [this post](https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2022). And I started to see a convergance between my findings and what was reflected in the "[BOOTSTRAPPED META-LEARNING](https://openreview.net/pdf?id=b-ny3x071E5)". 
 
-
-In the past couple of months, I came up with ideas based on my intuitions and research, which I found similar in some senses to what DeepMind has published recently. This convergence of ideas toward creating a better AI/AGI, especially in the "[BOOTSTRAPPED META-LEARNING](https://openreview.net/pdf?id=b-ny3x071E5)" was exciting. I found this excitement as an opportunity to articulate these ideas as a basis for more research. Although the Gato and DALL-E are at the center of attention, these ideas are not in the direction of Gato or DALL-E.
-
-[^1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6776890/
+I articulated my ideas as a basis for more research even-though the Gato and DALL-E were at the center of attention, and I respected them as good solutions, but I was taking another direction which has been depicted in Purple.
