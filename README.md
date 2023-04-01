@@ -23,19 +23,26 @@ I expand that definition to a broader one: A system is intelligent if we **perce
 
 Alternatively: A system is not inherently intelligent, it's intelligent if we sense it's intelligent.
 
+**Principle 2.** Explainability: Designing AGI is by itself hard and embedding explainability from the beginning makes adds unnecessary complexity.
+The fact that we humans, as a benchmark of intelligence, struggles to explain why we do something is the core of this unnecessary complexity.
+Also, the non-deterministic nature of our decision-making process is a key for intelligence. (e.g. Even most sophisticated humans might do unreasonable things).
+On the other hand, I believe if you don't see unexpected behavior from a system, there's no curiosity in the behavior of that system. And if curiosity is important for intelligence, then lack of unexpected behavior means there's no intelligence (Artificial Curiosity).
+So I will exclude explainability from this research and propose to use control mechanisms that help us stay safe rather than having a white-boxed explanation of an AI decision-making process.
+
 **Concept 1.** Our intelligence is limited to "**domain-sets**": meaning we can't apply the same amount of intelligence to everything in life. Someone might be exceptional with her muscle memory in playing the piano but not very sharp in understanding chemistry or even not as good with another instrument like a guitar. A high-IQ person might be a distinguished scientist but normally not able perform a complex surgery. 
 Characteristics of domain-sets:
 - Everyone can introduce their own domain-set
 - Everyone can perceive intelligence from a domain-set and call a system intelligent in that domain. For example, a programmer can build a calculator program then it's a valid claim to say that calculator is intelligent in the arithmetic domain-set.
 
-In this design, we don't define any domain-set. Domain-sets are outside the boundaries of this design, and we're not using domain-sets to test if a system is AGI or not. Later on, we introduce a broader test to detect AGI.
-The role of domain-sets in this design is to distinguish different types of intelligence and not limit intelligence or general intelligence to some tasks rather to define multiple scoring systems by many different researchers and turn measuring intelligence to an endless research topic, while keeping the design practical. Additionally, defining domain-sets allows having concepts like "foolish intelligent": an entity that we consider intelligent but still call it foolish in certain situations.
+In this design, we don't define any domain-set. Defining domain-sets is outside the boundaries of this design. And we're not using domain-sets to test if a system is AGI or not. Later on, we introduce a broader test to detect AGI.
+The role of domain-sets in this design is to distinguish and respect different types of intelligence and not limit the definition of intelligence to our design or to some tasks. My aim is to have as many scoring systems as we can over different domain-sets by various researchers and turn measuring intelligence into an endless research topic, but meanwhile, design a system that we think can be intelligent in practice. Additionally, defining domain-sets allows having concepts like "foolish intelligent": an entity that we consider intelligent but still call it foolish in certain situations.
 
 Note: Similarly, (or ironically), that's how we've been evaluating human intelligence with different intelligence tests, e.g. the IQ tests.
 
-**Concept 2. Physics, live, dynamic**: An intelligent person has the ability to make sense of symbols in a math formula and see the end result, recognize the dynamics of a game, understand how to be good at some sport, etc. In any domain-set, there's ruling physic of how things are connected to each other and how we can exploit them to our benefit.
+**Concept 2. live**: An intelligent person has the ability to make sense of symbols in a math equation and see a way to prove it. An intelligent person can recognize the dynamics of a game, understand how to be good at some sport, etc. Each of these is an example of a domain-set. 
+In any domain-set, there's ruling physic of how things are connected to each other and how we can exploit them to our benefit. We call a system **live** when it has the ability to recognize those dynamics, either by training a lot or just by receiving the rules of the domain-set once.
 
-**Concept 3.** Intelligence can be **learned**: When an intelligent person finds the physics of a domain-set and exploits it to her benefit, we learn from them.
+**Concept 3.** Intelligence can be **learned**: When an intelligent person finds the physics of a domain-set and exploits it to her benefit, we can learn from them. We might not be able to apply the same level of intelligence in that domain-set, but we learn that example.
 
 With these concept definitions, we'll go to the next section about two ideas: "Subjective intelligence" and "Artificial Curiosity". I will also mention how these ideas, concepts, and definitions are related to ideas from DeepMind papers.
 
@@ -47,15 +54,9 @@ It should be live not waiting for our prompt
 
 the problem with agent-oriented, collective intelligence etc is that they neglect the value of one small idea. and but that’s actually how humanity works
 
-What works is systematic intelligence.
-
-The creative intelligence is unique to humans
-
-Philosophy is not implemented in machines
-
-A qualitative test: when a system autonomously and independently came to conclusion to build another system to delegate computation, that’s intelligence
 
 
+Our intelligence is collective. Curiosity in communication turns into being noisy; if there's a collective model with no amount of being noisy, there's no curiosity
 
 
 
@@ -84,7 +85,7 @@ If intelligence is, to find patterns and turn the dynamics into a game, how can 
 
 ## Artificial curiosity
 
-If you don't see unexpected behavior, there's no curiosity, And if curiosity is important for intelligence, then no unexpected behavior means there's no intelligence. Our intelligence is collective. Curiosity in communication turns into being noisy; if there's a collective model with no amount of being noisy, there's no curiosity
+
 
 - [DeepMind's latest research at ICLR 2022](https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2022)
 - [2022 Conference](https://iclr.cc/)
@@ -94,7 +95,6 @@ If you don't see unexpected behavior, there's no curiosity, And if curiosity is 
 - [https://openreview.net/pdf?id=cU8rknuhxc](https://openreview.net/pdf?id=cU8rknuhxc)
 - [Defending Against Image Corruptions Through Adversarial Augmentations | OpenReview](https://openreview.net/forum?id=jJOjjiZHy3h)
 - [https://openreview.net/pdf?id=jJOjjiZHy3h](https://openreview.net/pdf?id=jJOjjiZHy3h)
-
 
 
 
@@ -158,9 +158,7 @@ If we consider different senses we expect a system to show, then we can rank dif
 
 
 # Explainability
-Designing AGI is by itself hard and embedding explainability from the beginning makes it less practical.
-The fact that we humans, as a benchmark of intelligence,  struggle to explain why we do something is the core of the unnecessary complexity. 
-The non-deterministic nature if our decision-making process is a key for intelligence. (e.g. Even most sophisticated humans might do unreasonable things) So I will exclude explainability from this research and propose to use control mechanisms that help us stay safe rather than having a white-boxed analysis of AI decision making.
+
  
 # Open Topics
 1. Staying alive: should the model show a will to live?
@@ -182,9 +180,10 @@ As discussed in C0, intelligence is based on our perception and from our percept
 I define a threshold that surpassing that indicates AGI.
 A system is AGI not when it's indistinguishable from a human in conversation but when it can design another AGI. 
 
-For example: Since GPT-4 can not build another AGI, it's not AGI.
+For example, Since GPT-4 can't build another AGI, it's not AGI.
 
 This definition seems so simple that I believe somebody else has thought about it before. So in that case, I too give my vote to this definition of AGI.
+There's also and ultimate version of this test where a system autonomously and independently came to conclusion to build another system to delegate computation to it. (without a prompt or ask)
 
 # Vision papers
 What is a vision paper?
