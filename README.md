@@ -16,19 +16,22 @@ Meta and others built systems that are indistinguishable from humans in a conver
 Yet it can be evidently argued that these are not AGI[^4].
 
 # Design concepts 
-I introduce three main concepts:
-**Concept 0.** I define **intelligence** as a subjective and relative phenomena. It's our perception of intelligence that defines it, like what was defined in the Turing test that intelligence is defined relative to conversation capability of a system with a person.
-I expand that definition to a more broad sense of intelligence: I define a system intelligent if we perceive intelligent behavior from it, not limited to conversing like a person. Or alternatively, a system is not inherently intelligent, it's intelligent if we sense it's intelligent.
+I introduce principal elements and core concepts to later on propose the initial design, but I don't know deeply what are the ways to implement these principals and concepts:
 
-I  "*sense of intelligence*": Things that make us call some behavior intelligent, and I use this definition as one of the metrics to evaluate either a system is intelligent or not. 
-If we consider different senses we expect a system to show, then we can rank different account systems in terms of their coverage on different senses.
+**Principle 1.** I define **intelligence** as a subjective and relative phenomena. It's our perception of intelligence that matters. The base idea comes from the Turing test.
+I expand that definition to a broader one: A system is intelligent if we **perceive** intelligence from it.
 
+Alternatively: A system is not inherently intelligent, it's intelligent if we sense it's intelligent.
 
-**Concept 1.** Our intelligence is limited to  "**domain-sets**": meaning we can't apply the same amount of intelligence to everything in life. Someone is maybe very good with her muscle memory in playing the piano but not very sharp in understanding chemistry or even not as good with another instrument like a guitar. A high-IQ person might be distinguished scientist but normally not able perform a complex surgery. Perception of
+**Concept 1.** Our intelligence is limited to "**domain-sets**": meaning we can't apply the same amount of intelligence to everything in life. Someone might be exceptional with her muscle memory in playing the piano but not very sharp in understanding chemistry or even not as good with another instrument like a guitar. A high-IQ person might be a distinguished scientist but normally not able perform a complex surgery. 
+Characteristics of domain-sets:
+- Everyone can introduce their own domain-set
+- Everyone can perceive intelligence from a domain-set and call a system intelligent in that domain. For example, a programmer can build a calculator program then it's a valid claim to say that calculator is intelligent in the arithmetic domain-set.
 
+In this design, we don't define any domain-set. Domain-sets are outside the boundaries of this design, and we're not using domain-sets to test if a system is AGI or not. Later on, we introduce a broader test to detect AGI.
+The role of domain-sets in this design is to distinguish different types of intelligence and not limit intelligence or general intelligence to some tasks rather to define multiple scoring systems by many different researchers and turn measuring intelligence to an endless research topic, while keeping the design practical. Additionally, defining domain-sets allows having concepts like "foolish intelligent": an entity that we consider intelligent but still call it foolish in certain situations.
 
-Similary and ironically, that's how we've been evaluating human intelligence with different intelligence tests, e.g. the IQ tests.
-
+Note: Similarly, (or ironically), that's how we've been evaluating human intelligence with different intelligence tests, e.g. the IQ tests.
 
 **Concept 2. Physics, live, dynamic**: An intelligent person has the ability to make sense of symbols in a math formula and see the end result, recognize the dynamics of a game, understand how to be good at some sport, etc. In any domain-set, there's ruling physic of how things are connected to each other and how we can exploit them to our benefit.
 
@@ -52,13 +55,14 @@ Philosophy is not implemented in machines
 
 A qualitative test: when a system autonomously and independently came to conclusion to build another system to delegate computation, that’s intelligence
 
-Moravec. paradox
 
-What intelligence are we building ? Dumb, normal, intelligent 
+
+
 
 ## Live Free Models
 
 ## The name, Purple
+Moravec. paradox
 Purple contradictions amongst cohesion and cohisive. individual and society. want and need. 
 
 
@@ -107,7 +111,6 @@ Now that we've[built big models](https://arxiv.org/pdf/2203.15556.pdf), and we'r
 - --
 
 
-
 smart people see some patterns and connections to exploit. many of the hard problems get solved this way. a way of designing intelligence. and on the side it raises a question that are these connections these people make related to their brain structure? are the connection that people with high eq make related to their brian?
 
 
@@ -149,6 +152,11 @@ Better understanding intelligence
 
 [pdf](https://openreview.net/pdf?id=BZ5a1r-kVsf)
 
+
+I  "*sense of intelligence*": Things that make us call some behavior intelligent, and I use this definition as one of the metrics to evaluate either a system is intelligent or not.
+If we consider different senses we expect a system to show, then we can rank different account systems in terms of their coverage on different senses.
+
+
 # Explainability
 Designing AGI is by itself hard and embedding explainability from the beginning makes it less practical.
 The fact that we humans, as a benchmark of intelligence,  struggle to explain why we do something is the core of the unnecessary complexity. 
@@ -165,7 +173,7 @@ How each person builds its understanding and starts to generalize
 7.we need a little bad memory, forgetting 
 8. Imagination in the AGI
 9. Giving positive bias to weird ideas
-
+10. What intelligence are we building ? Dumb, normal, intelligent
 
 
 # AGI Test
