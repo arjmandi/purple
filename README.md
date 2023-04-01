@@ -49,7 +49,7 @@ Philosophy is not implemented in machines
 
 A qualitative test: when a system autonomously and independently came to conclusion to build another system to delegate computation, that’s intelligence
 
-Moravec paradox
+Moravec. paradox
 
 What intelligence are we building ? Dumb, normal, intelligent 
 
