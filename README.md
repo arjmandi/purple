@@ -60,70 +60,24 @@ Note: Our intelligence is collective. Curiosity in communication turns into bein
 
 ## Live Free Models
 Supposing having an implementation of these concepts, the resulting system should know it's winning objective at any given time.
+
+## How to use Purple
+Similar to how to use humans.
+Do we:
+1. Use humans?
+2. Trade with humans?
+3. Collaborate with humans?
+4. Persuade humans?
+All of the above. If we truly build AGI, it will have its own agenda, and we need to answer its needs or give it what it wants or persuade it to give us answers.
+
+It might have an answer for understanding the secrets of the universe, ways to travel to far galaxies, etc. 
+
+We might get an answer and we don't understand it, but we can use it.
+
 ## The name, Purple
 Moravec paradox
 Purple contradictions amongst cohesion and cohisive. individual and society. want and need.
 
-
-
-
-genius works, like understanding the secrets of the universe are things that can be resolved, traveling to far galaxies, etc. they are questions that should be entered to this machine, that machine provides us the answer, we don't understand it, but we can use it
-
-
----
-
-
-Now that we've [built big models](https://arxiv.org/pdf/2203.15556.pdf), and we're lining up GPU racks can also be a good opportunity to look for other ways too.
-
-- --
-
-
-smart people see some patterns and connections to exploit. many of the hard problems get solved this way. a way of designing intelligence. and on the side it raises a question that are these connections these people make related to their brain structure? are the connection that people with high eq make related to their brian?
-
-
-
-[https://www.linkedin.com/posts/yann-lecun_ai-activity-6932436820454502400-hV39/?utm_source=linkedin_share&utm_medium=android_app](https://www.linkedin.com/posts/yann-lecun_ai-activity-6932436820454502400-hV39/?utm_source=linkedin_share&utm_medium=android_app)
-
-
-
-
-[https://www.cold-takes.com/ai-could-defeat-all-of-us-combined](https://www.cold-takes.com/ai-could-defeat-all-of-us-combined)
-
-- ****Common Sense Comes Closer to Computers****
- [https://www.quantamagazine.org/common-sense-comes-to-computers-20200430/](https://www.quantamagazine.org/common-sense-comes-to-computers-20200430/)
-
-- ------
-
-As a researcher in the field, I don't find definitions like "adaptive behavior" suitable for what we mean by intelligence.
-
-(In reinforcement learning, we define intelligence as getting more rewards.)Using activation functions to build models that can imitate learning through gradient descent. A very practical way but we still don't have AGI.
-
-[*Despite observing intelligence among other species, the way I see intelligence works amongst us humans is 1) a combination of different abilities and behaviors and 2) certainly not the ability to drive, eat, etc ..*]
-
-
-[https://twitter.com/nabeelqu/status/1610267023694770179?s=20&t=x27uXfUd6zlQLPL3a4nH7g](https://twitter.com/nabeelqu/status/1610267023694770179?s=20&t=x27uXfUd6zlQLPL3a4nH7g)
-
-Better understanding intelligence
-[https://kirkegaard.substack.com/p/iq-can-be-increased-by-more-education](https://kirkegaard.substack.com/p/iq-can-be-increased-by-more-education)
-
-
-[Collective intelligence - Wikipedia](https://en.wikipedia.org/wiki/Collective_intelligence#:~:text=Collective%20intelligence%20(CI)%20is%20shared,appears%20in%20consensus%20decision%20making.)
-
-
-[Yann LeCun on a vision to make AI systems learn and reason like animals and humans](https://ai.facebook.com/blog/yann-lecun-advances-in-ai-research/)
-
-
-[Shaped](https://www.shaped.ai/blog/yann-lecun-a-path-towards-autonomous-machine-intelligence)
-
-[Yann LeCun's Paper on creating autonomous machines](https://datasciencelearningcenter.substack.com/p/yann-lecuns-paper-on-creating-autonomous)
-
-[pdf](https://openreview.net/pdf?id=BZ5a1r-kVsf)
-
-
-I  "*sense of intelligence*": Things that make us call some behavior intelligent, and I use this definition as one of the metrics to evaluate either a system is intelligent or not.
-If we consider different senses we expect a system to show, then we can rank different account systems in terms of their coverage on different senses.
-
-**Concept 3.** Intelligence can be **learned**: When an intelligent person finds the physics of a domain-set and exploits it to her benefit, we can learn from them. We might not be able to apply the same level of intelligence in that domain-set, but we learn that example. Also, an intelligent person is a receiver of thoughts and solutions from others. So solutions should be able to be sent and received by
  
 # Open Topics
 1. Staying alive: should the model show a will to live?
@@ -133,7 +87,7 @@ If we consider different senses we expect a system to show, then we can rank dif
 5. I believe the key for a better AI is to model the way learn and represent things not the structure of our brain
 How each person builds its understanding and starts to generalize
 6. Stories aren’t real, and yet they’re meaningful: how we create mental paths between two abstract concepts and later on use them for other concepts
-7. We need a little bad memory, forgetting 
+7. We need a little bad memory, forgetting: To be a mathematician, you need a slightly bad memory [🔗](https://twitter.com/nabeelqu/status/1610267023694770179?s=20&t=x27uXfUd6zlQLPL3a4nH7g)
 8. Imagination in the AGI
 9. Giving positive bias to weird ideas
 10. What intelligence are we building? Dumb, normal, intelligent
@@ -163,9 +117,11 @@ AI has always been a part of my professional career, but it was the first conver
 In October 2021 something terrible happened, and it made something inside me to flip. I wasn't aware of it, but that event made me work on AI more than before in my free time, unconsciously. Months later, I noticed it in myself. I was thinking that if I create AI, that first conversation will be restored and love will find its way to me.
 
 
-It might seem cool to work on AGI, but it was also mad and unrealistic, starting from nothing and from nowhere. At that period, our data team at [Eveince](https://eveince.com) was working on graph neural networks to build a better representation of texts for better understanding of financial advice given by experts on the internet [here](https://arxiv.org/abs/2211.16103). and I was reading about and thinking about graphs networks. But then I came to the conclusion that graphs inherently and generally are not a good tool to represent behaviour when they represent data and vice versa [On the Edge #5](https://arjmandi.substack.com/p/on-the-edge-5). 
+It might seem cool to work on AGI, but it was also mad and unrealistic, starting from nothing and from nowhere. At that period, our data team at [Eveince[^5]]() was working on graph neural networks to build a better representation of texts for better understanding of financial advice given by experts on the internet[^6] (). and I was reading about and thinking about graphs networks. But then I came to the conclusion that graphs inherently and generally are not a good tool to represent behaviour when they represent data and vice versa [^7] [On the Edge #5](). 
 
-This wasn't a step toward a design, rather a step toward removing designs that don't work. This led me to read more and search more where I found almost all of the available network architectures empty of characteristics I was looking for but then again small lights in the path like [this tweet](https://twitter.com/ylecun/status/1492604977260412928) from LeCunn kept me going. Studying Deepmind and OpenAI works has also made me draw some predictions over the next months, not to feel good about my predictions but to see if I was right and current architectures are not what I'm looking for, this might help me to find the design.  [On the Edge #11](https://arjmandi.substack.com/p/on-the-edge-11). 
+This wasn't a step toward a design, rather a step toward removing designs that don't work. This led me to read more and search more where I found almost all of the available network architectures empty of characteristics I was looking for, but then again small lights in the path like [this tweet]() from LeCunn kept me going. 
+![](https://twitter.com/ylecun/status/1492604977260412928)
+Studying Deepmind and OpenAI works has also made me draw some predictions over the next months, not to feel good about my predictions but to see if I was right and current architectures are not what I'm looking for, this might help me to find the design.  [On the Edge #11](https://arjmandi.substack.com/p/on-the-edge-11). 
 
 
 On April 25th 2022, the ICLR 2022 was held. One of the most important events of introducing cutting-edge achievements in AI, sponsored by DeepMind, Google Research, Two Sigma, Microsoft, Meta, etc. DeepMind published an overview of their papers for ICLR in [this post](https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2022). And I started to see a convergence between my findings and what was reflected in the "[BOOTSTRAPPED META-LEARNING](https://openreview.net/pdf?id=b-ny3x071E5)". 
@@ -177,11 +133,11 @@ I articulated my ideas as a basis for more research even though interesting work
 [^2]: https://www.sciencedirect.com/science/article/pii/S0004370221000862
 [^3]: https://twitter.com/sama/status/1638983750934724608
 [^4]: https://www.nature.com/articles/s41562-022-01516-2
-[^]:
-[^]:
-[^]:
-[^]:
-[^]:
+[^5]: https://eveince.com
+[^6]: https://arxiv.org/abs/2211.16103
+[^7]: https://arjmandi.substack.com/p/on-the-edge-5
+[^8]:
+[^9]:
 [^]:
 [^]:
 [^]:
