@@ -4,24 +4,28 @@ Outlining a model to implement AGI
 This work is a speculation of a system or systems that allow the emergence of behaviors which can be considered as intelligent behavior. Although it might be more similar to a sci-fi story, but recent achievements and the research momentum on AGI, almost guarantee that many of these intelligent behaviors actually emerge from the tools we build.
 
 _- The true value of science fiction to me is that it permits speculation_
-# Definition
-Intelligence has various [definitions in different domains](https://en.wikipedia.org/wiki/Intelligence): emotional, social, street smart, etc. 
+## Introduction
+Intelligence has various definitions in different domains[^1]: emotional, social, street smart, etc. 
 Which one do we mean by general intelligence?
 
-We can refer to the famous Turing test to define (artificial) intelligence, but with the recent language models we've already built systems that can be indistinguishable from human yet we don't consider them AGI[^].
+DeepMind has come to the conclusion
+that to build intelligent "[Reward is enough](https://www.sciencedirect.com/science/article/pii/S0004370221000862)".
+OpenAI is more focused on scaling transformer models which has been summarized into "[Gradient descent can do it](https://twitter.com/sama/status/1638983750934724608)".
+And referring to the Turing test, DeepMind, OpenAI, Anthropic,
+Meta and others built systems that are indistinguishable from humans in a conversation to an extreme extent.
+Yet some of us don't consider them AGI[^].
 [openai and deepmind definitions of intelligence] 
 
 # Design concepts 
 I introduce three main concepts:
-
 **Concept 0.** I define **intelligence** as a subjective and relative phenomena. It's our perception of intelligence that defines it, like what was defined in the Turing test that intelligence is defined relative to conversation capability of a system with a person.
-I expand that definition to a more broad sense of perception of intelligence: I define a system intelligent if we perceive intelligent behavior from it, not limited to conversing like a person. Or alternatively, a system is not inherently intelligent, it's intelligent if we sense it's intelligent.
+I expand that definition to a more broad sense of intelligence: I define a system intelligent if we perceive intelligent behavior from it, not limited to conversing like a person. Or alternatively, a system is not inherently intelligent, it's intelligent if we sense it's intelligent.
 
-I  "*sense of intelligence*": Things that make us call some behavior intelligent and I use this definition as one of the metrics to evaluate either a system is intelligent or not. 
+I  "*sense of intelligence*": Things that make us call some behavior intelligent, and I use this definition as one of the metrics to evaluate either a system is intelligent or not. 
 If we consider different senses we expect a system to show, then we can rank different account systems in terms of their coverage on different senses.
 
 
-**Concept 1.** Our intelligence is limited to  "**domain-sets**": meaning we can't apply the same amount of intelligence to everything in life. Someone is maybe very good with her muscle memory in playing the piano but not very sharp in understanding chemistry or even not as good with another instrument like a guitar. A high IQ person might be distinguished scientist but normally not able perform a complex surgery. Perception of
+**Concept 1.** Our intelligence is limited to  "**domain-sets**": meaning we can't apply the same amount of intelligence to everything in life. Someone is maybe very good with her muscle memory in playing the piano but not very sharp in understanding chemistry or even not as good with another instrument like a guitar. A high-IQ person might be distinguished scientist but normally not able perform a complex surgery. Perception of
 
 
 Similary and ironically, that's how we've been evaluating human intelligence with different intelligence tests, e.g. the IQ tests.
@@ -35,11 +39,11 @@ With these concept definitions, we'll go to the next section about two ideas: "S
 
 One human can be supersmart still won't do much on earth, but a collection of humans plus time, will be change the world.
 
-Stories and embeddinga can be used to communicate between livings.
+Stories and embeddings can be used to communicate between livings.
 
 It should be live not waiting for our prompt 
 
-the problem with agent-riented, collective intelligence etc is that they neglect the value of one small idea. and but that’s actually how humanity works
+the problem with agent-oriented, collective intelligence etc is that they neglect the value of one small idea. and but that’s actually how humanity works
 
 What works is systematic intelligence.
 
@@ -196,3 +200,6 @@ This wasn't a step toward a design, rather a step toward removing designs that d
 On April 25th 2022, the ICLR 2022 was held. One of the most important events of introducing cutting-edge achievements in AI, sponsored by DeepMind, Google Research, Two Sigma, Microsoft, Meta, etc. DeepMind published an overview of their papers for ICLR in [this post](https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2022). And I started to see a convergence between my findings and what was reflected in the "[BOOTSTRAPPED META-LEARNING](https://openreview.net/pdf?id=b-ny3x071E5)". 
 
 I articulated my ideas as a basis for more research even though interesting works at the time like Gato and DALL-E were on a different path. They've progressed dramatically over the past year into new versions or models like PALM-E. I categorize them as new computation tools, and for AGI I took another direction which has been depicted here as Purple.
+
+
+[^1]: https://en.wikipedia.org/wiki/Intelligence
