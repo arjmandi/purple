@@ -15,7 +15,7 @@ And referring to the Turing test, DeepMind, OpenAI, Anthropic,
 Meta and others built systems that are indistinguishable from humans in a conversation to an extreme extent.
 Yet it can be evidently argued that these are not AGI[^4].
 
-# Design concepts 
+## Design concepts 
 I introduce principal elements and core concepts to later on propose the initial design, but I don't know deeply what are the ways to implement these principals and concepts:
 
 **Principle 1.** I define **intelligence** as a subjective and relative phenomena. It's our perception of intelligence that matters. The base idea comes from the Turing test.
@@ -59,27 +59,30 @@ Stories are self-reinforcing. Meaning they form the understanding of a model, wh
 Note: Our intelligence is collective. Curiosity in communication turns into being noisy; if there's a collective model with no amount of being noisy, there's no curiosity inside.
 
 ## Live Free Models
-Supposing having an implementation of these concepts, the resulting system should know it's winning objective at any given time.
+Supposing having an implementation of these concepts, the resulting system comprises many models that are interacting together. I call each of these models a Live Free Model(LFM). Any LFM knows its objective at any given time and constantly is updating it.
+A set of LFMs form a Purple.
 
 ## How to use Purple
-Similar to how to use humans.
-Do we:
-1. Use humans?
-2. Trade with humans?
-3. Collaborate with humans?
-4. Persuade humans?
-All of the above. If we truly build AGI, it will have its own agenda, and we need to answer its needs or give it what it wants or persuade it to give us answers.
+Purple, or any other implementation of AGI is not a simple tool to use, it's like a person. 
 
-It might have an answer for understanding the secrets of the universe, ways to travel to far galaxies, etc. 
+On the other hand, we also use humans.
 
-We might get an answer and we don't understand it, but we can use it.
+Ways we get what we want from a person:
+1. Using them, persuading them
+2. Trade with them
+3. Collaborate with them
+4. Serve them
+
+If we truly build AGI, it will have its own agenda, and we need to answer its needs or give it what it wants or persuade it to give us answers. 
+
+It might have an answer for understanding the secrets of the universe or a way to travel to far galaxies, etc. And we might not understand how that answer works, but might also use it.
 
 ## The name, Purple
 Moravec paradox
 Purple contradictions amongst cohesion and cohisive. individual and society. want and need.
 
  
-# Open Topics
+## Open Questions
 1. Staying alive: should the model show a will to live?
 2. Minimize pain: everything we do can be modeled as pain minimizing. is this an angle that helps the design?
 3. Boredom and laziness: should the model show boredom and laziness?
@@ -94,7 +97,7 @@ How each person builds its understanding and starts to generalize
 11. When we decide to believe someone/something? (how do we decide in the mafia game)
 
 
-# AGI Test
+## AGI Test
 As discussed in C0, intelligence is based on our perception and from our perception a model like GPT-4 can be considered intelligent.
 I define a threshold that surpassing that indicates AGI.
 A system is AGI not when it's indistinguishable from a human in conversation but when it can design another AGI. 
@@ -110,7 +113,7 @@ What is a vision paper?
 [https://scienceplusplus.org/visions/index.html](https://scienceplusplus.org/visions/index.html)
 
 
-# Personal Motivation Story
+# Personal Motivation and Story
 The Motivation of this work, beside the Asimov novels and years of working on AI projects, started in October 2021. 
 AI has always been a part of my professional career, but it was the first conversation topic that I had with the person I love. 
 
