@@ -120,10 +120,11 @@ In October 2021 something terrible happened, and it made something inside me to 
 It might seem cool to work on AGI, but it was also mad and unrealistic, starting from nothing and from nowhere. At that period, our data team at Eveince[^5] was working on graph neural networks to build a better representation of texts for better understanding of financial advice given by experts on the internet[^6]. and I was reading about and thinking about graphs networks. But then I came to the conclusion that graphs inherently and generally are not a good tool to represent behaviour when they represent data and vice versa [^7]. 
 
 This wasn't a step toward a design, rather a step toward removing designs that don't work. This led me to read more and search more where I found almost all of the available network architectures empty of characteristics I was looking for, but then again small lights in the path like this tweet from LeCunn kept me going. 
+<p></p>
 <p align="center">
 <img src="/resources/Lecunn-tweet.png" width="600">
 </p>
-Studying Deepmind and OpenAI works has also made me draw some predictions over the next months, not to feel good about my predictions but to see if I was right and current architectures are not what I'm looking for, this might help me to find the design[^8]. 
+Studying Deepmind and OpenAI works has also made me draw some predictions over the next months, not to feel good about my predictions but to see if I was right and current architectures are not what I'm looking for, this might help me find the design[^8]. 
 
 
 On April 25th 2022, the ICLR 2022 was held. One of the most important events of introducing cutting-edge achievements in AI, sponsored by DeepMind, Google Research, Two Sigma, Microsoft, Meta, etc. (DeepMind's' overview of their papers for ICLR [^9]). And I started to see a convergence between my findings and what was reflected in the "Bootstrapped Meta-Learning[^10]." 
