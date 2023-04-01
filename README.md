@@ -48,61 +48,36 @@ Each of these is an example of a domain-set. In any domain-set, there's a dynami
 
 Characteristics of stories:
 - Stories aren't complete, they're fragments, so they have no limitation in nature, but in implementation there might be limitations in terms of bytes or characters.
-- Stories can be received and understood but not bit by bit. Stories find their own place in the receiver's knowledge base and build new connectors to understand more stories.
+- Stories can be received and understood but not bit by bit. Meaning that they aren't objective and absolute, they are subjective and relative. (Subjective Intelligence)
+- Stories find their own place in the receiver's knowledge base and build new connectors to understand more stories.
+- Stories can be used to communicate between AI models.
+
+Stories are self-reinforcing. Meaning they form the understanding of a model, what it desires, what it considers good or bad.
+
+**Concept 3.** One human can be supersmart still won't do much on earth, but a collection of humans plus time, will be change the world. Some examples of previous works in AI and algorithm design that addressed this concept are: agent-oriented design, particle swarm analysis, ant colont, etc. But almost all of them neglect the value of one small idea while that’s actually how humanity works.
+
+Note: Our intelligence is collective. Curiosity in communication turns into being noisy; if there's a collective model with no amount of being noisy, there's no curiosity inside.
+
+## Live Free Models
+Supposing having an implementation of these concepts, the resulting system should know it's winning objective at any given time.
+## The name, Purple
+Moravec paradox
+Purple contradictions amongst cohesion and cohisive. individual and society. want and need.
+
+
+
+
+genius works, like understanding the secrets of the universe are things that can be resolved, traveling to far galaxies, etc. they are questions that should be entered to this machine, that machine provides us the answer, we don't understand it, but we can use it
+
+
+
+
 
 
 ---
 
 
-One human can be supersmart still won't do much on earth, but a collection of humans plus time, will be change the world.
 
-Stories and embeddings can be used to communicate between livings.
-
-It should be live not waiting for our prompt 
-
-the problem with agent-oriented, collective intelligence etc is that they neglect the value of one small idea. and but that’s actually how humanity works
-
-
-
-Our intelligence is collective. Curiosity in communication turns into being noisy; if there's a collective model with no amount of being noisy, there's no curiosity
-
-
-
-## Live Free Models
-
-## The name, Purple
-Moravec. paradox
-Purple contradictions amongst cohesion and cohisive. individual and society. want and need. 
-
-
-## Subjective intelligence
-
-If we assume C1 and C2 are correct, in every situation, an intelligent system knows the winning function. There's no general way of learning everything. In any "domain-set", there's ruling physics, the system exploits that physic to its advantage (the scary part of AGI).
-
-This also shows if the system can not figure out the physics, it can not understand it (just like us humans).
-
-But if we scale the system to a point that can model complex huge "domain sets", it can find a way to travel to new galaxies, or how solve the climate crisis?
-
-If intelligence is, to find patterns and turn the dynamics into a game, how can we build a system that can do that?
-
-1. Ultimate game results are not defined by the system (winning is obvious and clear: a car that moves from one place to another, a game to win, a successful trade), so if there's not a winning definition, the task is harder, subjective and is not a good example of a generic intelligence
-2. genius works, like understanding the secrets of the universe are things that can be resolved, traveling to far galaxies, etc. they are questions that should be entered to this machine, that machine provides us the answer, we don't understand it, but we can use it
-3. (not necessarily related to this idea: we may don't need big memories for AGI, if people see a number keypad they memorize numbers better, so we don't memorize because we don't need it. Laziness is important for intelligence. Also, pain→we use pain to find our way. We constantly minimize pain. maybe this is a key to building the AGI)
-
-
-
-## Artificial curiosity
-
-
-
-- [DeepMind's latest research at ICLR 2022](https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2022)
-- [2022 Conference](https://iclr.cc/)
-- [When should agents explore? | OpenReview](https://openreview.net/forum?id=dEwfxt14bca)
-- [https://openreview.net/pdf?id=dEwfxt14bca](https://openreview.net/pdf?id=dEwfxt14bca)
-- [Learning more skills through optimistic exploration | OpenReview](https://openreview.net/forum?id=cU8rknuhxc)
-- [https://openreview.net/pdf?id=cU8rknuhxc](https://openreview.net/pdf?id=cU8rknuhxc)
-- [Defending Against Image Corruptions Through Adversarial Augmentations | OpenReview](https://openreview.net/forum?id=jJOjjiZHy3h)
-- [https://openreview.net/pdf?id=jJOjjiZHy3h](https://openreview.net/pdf?id=jJOjjiZHy3h)
 
 
 
@@ -173,16 +148,16 @@ If we consider different senses we expect a system to show, then we can rank dif
 4. Difference between average agents and genius agents
 5. I believe the key for a better AI is to model the way learn and represent things not the structure of our brain
 How each person builds its understanding and starts to generalize
-6.Stories aren’t real, and yet they’re meaningful: how we create mental paths between two abstract concepts and later on use them for other concepts
-7.we need a little bad memory, forgetting 
+6. Stories aren’t real, and yet they’re meaningful: how we create mental paths between two abstract concepts and later on use them for other concepts
+7. We need a little bad memory, forgetting 
 8. Imagination in the AGI
 9. Giving positive bias to weird ideas
-10. What intelligence are we building ? Dumb, normal, intelligent
+10. What intelligence are we building? Dumb, normal, intelligent
+11. When we decide to believe someone/something? (how do we decide in the mafia game)
 
 
 # AGI Test
-As discussed in C0, intelligence is based on our perception and from our perception a model like GPT-4 can be considered intelligent. 
-
+As discussed in C0, intelligence is based on our perception and from our perception a model like GPT-4 can be considered intelligent.
 I define a threshold that surpassing that indicates AGI.
 A system is AGI not when it's indistinguishable from a human in conversation but when it can design another AGI. 
 
