@@ -30,21 +30,29 @@ On the other hand, I believe if you don't see unexpected behavior from a system,
 So I will exclude explainability from this research and propose to use control mechanisms that help us stay safe rather than having a white-boxed explanation of an AI decision-making process.
 
 **Concept 1.** Our intelligence is limited to "**domain-sets**": meaning we can't apply the same amount of intelligence to everything in life. Someone might be exceptional with her muscle memory in playing the piano but not very sharp in understanding chemistry or even not as good with another instrument like a guitar. A high-IQ person might be a distinguished scientist but normally not able perform a complex surgery. 
-Characteristics of domain-sets:
-- Everyone can introduce their own domain-set
-- Everyone can perceive intelligence from a domain-set and call a system intelligent in that domain. For example, a programmer can build a calculator program then it's a valid claim to say that calculator is intelligent in the arithmetic domain-set.
 
-In this design, we don't define any domain-set. Defining domain-sets is outside the boundaries of this design. And we're not using domain-sets to test if a system is AGI or not. Later on, we introduce a broader test to detect AGI.
-The role of domain-sets in this design is to distinguish and respect different types of intelligence and not limit the definition of intelligence to our design or to some tasks. My aim is to have as many scoring systems as we can over different domain-sets by various researchers and turn measuring intelligence into an endless research topic, but meanwhile, design a system that we think can be intelligent in practice. Additionally, defining domain-sets allows having concepts like "foolish intelligent": an entity that we consider intelligent but still call it foolish in certain situations.
+Characteristics of domain-sets:
+- Everyone can introduce their own domain-sets. I (or this model) don't define domain-sets.
+- Everyone that perceives intelligence from a system on a domain-set can claim that the system is intelligent in that domain. For example, a programmer can build a calculator program and claim that the calculator is intelligent in the arithmetic domain-set.
+
+Defining domain-sets is outside the boundaries of this design. And I'm not using domain-sets to test if a system is AGI or not. Later on, I introduce a broader test to detect AGI.
+The role of domain-sets in this design is to distinguish and respect different types of intelligence and not limit the definition of intelligence to this design or to some tasks. 
+
+My aim is to have as many scoring systems as we can over different domain-sets by many researchers and turn measuring intelligence into an endless research topic. Meanwhile, design a system that we think can be intelligent in practice. Additionally, defining domain-sets allows having concepts like "foolish intelligent": an entity that we consider intelligent but still call it foolish in certain situations.
 
 Note: Similarly, (or ironically), that's how we've been evaluating human intelligence with different intelligence tests, e.g. the IQ tests.
 
-**Concept 2. live**: An intelligent person has the ability to make sense of symbols in a math equation and see a way to prove it. An intelligent person can recognize the dynamics of a game, understand how to be good at some sport, etc. Each of these is an example of a domain-set. 
-In any domain-set, there's ruling physic of how things are connected to each other and how we can exploit them to our benefit. We call a system **live** when it has the ability to recognize those dynamics, either by training a lot or just by receiving the rules of the domain-set once.
+**Concept 2. story**: A story is a chain that articulate the dynamics inside a domain-set. For example, an intelligent person might be able to make sense of symbols in a math equation and see a way to prove it. An intelligent person might recognize the dynamics of a game, etc. 
 
-**Concept 3.** Intelligence can be **learned**: When an intelligent person finds the physics of a domain-set and exploits it to her benefit, we can learn from them. We might not be able to apply the same level of intelligence in that domain-set, but we learn that example.
+Each of these is an example of a domain-set. In any domain-set, there's a dynamic of how things are connected to each other and how we can exploit them to our benefit. When a system recognizes those dynamics, either by itself or by learning from others, it has the ability to turn what it has learned into a form called **story**. A story is an articulation of a finding. 
 
-With these concept definitions, we'll go to the next section about two ideas: "Subjective intelligence" and "Artificial Curiosity". I will also mention how these ideas, concepts, and definitions are related to ideas from DeepMind papers.
+Characteristics of stories:
+- Stories aren't complete, they're fragments, so they have no limitation in nature, but in implementation there might be limitations in terms of bytes or characters.
+- Stories can be received and understood but not bit by bit. Stories find their own place in the receiver's knowledge base and build new connectors to understand more stories.
+
+
+---
+
 
 One human can be supersmart still won't do much on earth, but a collection of humans plus time, will be change the world.
 
@@ -156,9 +164,7 @@ Better understanding intelligence
 I  "*sense of intelligence*": Things that make us call some behavior intelligent, and I use this definition as one of the metrics to evaluate either a system is intelligent or not.
 If we consider different senses we expect a system to show, then we can rank different account systems in terms of their coverage on different senses.
 
-
-# Explainability
-
+**Concept 3.** Intelligence can be **learned**: When an intelligent person finds the physics of a domain-set and exploits it to her benefit, we can learn from them. We might not be able to apply the same level of intelligence in that domain-set, but we learn that example. Also, an intelligent person is a receiver of thoughts and solutions from others. So solutions should be able to be sent and received by
  
 # Open Topics
 1. Staying alive: should the model show a will to live?
