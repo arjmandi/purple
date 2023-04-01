@@ -1,9 +1,9 @@
 # Purple
 Outlining a model to implement AGI
 ## Abstract
-This work is a speculation of a system or systems that allow the emergence of behaviors which can be considered as intelligent behavior. Although it might be more similar to a sci-fi story, but recent achievements and the research momentum on AGI, almost guarantee that many of these intelligent behaviors actually emerge from the  tools we build.
+This work is a speculation of a system or systems that allow the emergence of behaviors which can be considered as intelligent behavior. Although it might be more similar to a sci-fi story, but recent achievements and the research momentum on AGI, almost guarantee that many of these intelligent behaviors actually emerge from the tools we build.
 
-[asimov]
+_- The true value of science fiction to me is that it permits speculation_
 # Definition
 Intelligence has various [definitions in different domains](https://en.wikipedia.org/wiki/Intelligence): emotional, social, street smart, etc. 
 Which one do we mean by general intelligence?
@@ -24,7 +24,7 @@ If we consider different senses we expect a system to show, then we can rank dif
 **Concept 1.** Our intelligence is limited to  "**domain-sets**": meaning we can't apply the same amount of intelligence to everything in life. Someone is maybe very good with her muscle memory in playing the piano but not very sharp in understanding chemistry or even not as good with another instrument like a guitar. A high IQ person might be distinguished scientist but normally not able perform a complex surgery. Perception of
 
 
-Similary and ironically that's how we've been evaluating human intelligence with different intelligence test e.g. the IQ tests.
+Similary and ironically, that's how we've been evaluating human intelligence with different intelligence tests, e.g. the IQ tests.
 
 
 **Concept 2. Physics, live, dynamic**: An intelligent person has the ability to make sense of symbols in a math formula and see the end result, recognize the dynamics of a game, understand how to be good at some sport, etc. In any domain-set, there's ruling physic of how things are connected to each other and how we can exploit them to our benefit.
@@ -49,7 +49,7 @@ Philosophy is not implemented in machines
 
 A qualitative test: when a system autonomously and independently came to conclusion to build another system to delegate computation, that’s intelligence
 
-Marvec paradox
+Moravec paradox
 
 What intelligence are we building ? Dumb, normal, intelligent 
 
