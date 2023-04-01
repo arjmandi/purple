@@ -70,26 +70,10 @@ Purple contradictions amongst cohesion and cohisive. individual and society. wan
 genius works, like understanding the secrets of the universe are things that can be resolved, traveling to far galaxies, etc. they are questions that should be entered to this machine, that machine provides us the answer, we don't understand it, but we can use it
 
 
-
-
-
-
 ---
 
 
-
-
-
-
-
-Yann lecun model
-
-[https://openreview.net/pdf?id=BZ5a1r-kVsf](https://openreview.net/pdf?id=BZ5a1r-kVsf)
-
-[https://www.youtube.com/watch?v=DokLw1tILlw](https://www.youtube.com/watch?v=DokLw1tILlw)
-
-
-Now that we've[built big models](https://arxiv.org/pdf/2203.15556.pdf), and we're lining up GPU racks can also be a good opportunity to look for other ways too.
+Now that we've [built big models](https://arxiv.org/pdf/2203.15556.pdf), and we're lining up GPU racks can also be a good opportunity to look for other ways too.
 
 - --
 
