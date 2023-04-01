@@ -121,7 +121,7 @@ It might seem cool to work on AGI, but it was also mad and unrealistic, starting
 
 This wasn't a step toward a design, rather a step toward removing designs that don't work. This led me to read more and search more where I found almost all of the available network architectures empty of characteristics I was looking for, but then again small lights in the path like this tweet from LeCunn kept me going. 
 
-<img src="/resources/Lecunn-tweet.png" width="400">
+<img align="center" src="/resources/Lecunn-tweet.png" width="400">
 
 Studying Deepmind and OpenAI works has also made me draw some predictions over the next months, not to feel good about my predictions but to see if I was right and current architectures are not what I'm looking for, this might help me to find the design[^8]. 
 
