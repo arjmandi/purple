@@ -3,7 +3,7 @@ Outlining a model to implement AGI
 ## Abstract
 This work is a speculation of a system or systems that allow the emergence of behaviors which can be considered as intelligent behavior. Although it might be more similar to a sci-fi story, but recent achievements and the research momentum on AGI, almost guarantee that many of these intelligent behaviors actually emerge from the tools we build.
 
-_- The true value of science fiction to me is that it permits speculation_
+_- The true value of science fiction to me is that it permits speculation (Asimov)_
 ## Introduction
 Intelligence has various definitions in different domains[^1]: emotional, social, street smart, etc. 
 Which one do we mean by general intelligence?
@@ -120,14 +120,15 @@ AI has always been a part of my professional career, but it was the first conver
 In October 2021 something terrible happened, and it made something inside me to flip. I wasn't aware of it, but that event made me work on AI more than before in my free time, unconsciously. Months later, I noticed it in myself. I was thinking that if I create AI, that first conversation will be restored and love will find its way to me.
 
 
-It might seem cool to work on AGI, but it was also mad and unrealistic, starting from nothing and from nowhere. At that period, our data team at Eveince[^5] was working on graph neural networks to build a better representation of texts for better understanding of financial advice given by experts on the internet[^6]. and I was reading about and thinking about graphs networks. But then I came to the conclusion that graphs inherently and generally are not a good tool to represent behaviour when they represent data and vice versa [^7]. 
+It might seem cool to work on AGI, but it was also mad and unrealistic, starting from nothing and from nowhere. At that period, our data team at Eveince[^5] was working on graph neural networks to build a better representation of texts for better understanding of financial advice given by experts on the internet[^6] so I was more focused on graphs networks. But then I came to the conclusion that graphs inherently and generally are not a good tool to represent behaviour when they represent data and vice versa [^7]. 
 
-This wasn't a step toward a design, rather a step toward removing designs that don't work. This led me to read more and search more where I found almost all of the available network architectures empty of characteristics I was looking for, but then again small lights in the path like this tweet from LeCunn kept me going. 
+This wasn't a step toward a design, rather a step toward removing designs that don't work. This led me to read more and search more where I found almost all the available network architectures empty of characteristics required to build AGI, but then again small lights in the path like this tweet from LeCunn kept me going [^11]. 
 <p></p>
 <p align="center">
 <img src="/resources/Lecunn-tweet.png" width="600">
 </p>
-Studying Deepmind and OpenAI works has also made me draw some predictions over the next months, not to feel good about my predictions but to see if I was right and current architectures are not what I'm looking for, this might help me find the design[^8]. 
+
+Studying DeepMind and OpenAI works has also made me draw some predictions over the next months, not to feel good about my predictions but to see if I was right and current architectures are not what I'm looking for, this might help me find the design [^8]. 
 
 
 On April 25th 2022, the ICLR 2022 was held. One of the most important events of introducing cutting-edge achievements in AI, sponsored by DeepMind, Google Research, Two Sigma, Microsoft, Meta, etc. (DeepMind's' overview of their papers for ICLR [^9]). And I started to see a convergence between my findings and what was reflected in the "Bootstrapped Meta-Learning[^10]." 
@@ -145,7 +146,7 @@ I articulated my ideas as a basis for more research even though interesting work
 [^8]: https://arjmandi.substack.com/p/on-the-edge-11
 [^9]: https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2022
 [^10]: https://openreview.net/pdf?id=b-ny3x071E5
-[^11]:
+[^11]: https://twitter.com/ylecun/status/1492604977260412928
 [^]:
 [^]:
 [^]:
