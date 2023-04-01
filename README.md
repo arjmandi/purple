@@ -119,12 +119,15 @@ In October 2021 something terrible happened, and it made something inside me to 
 
 It might seem cool to work on AGI, but it was also mad and unrealistic, starting from nothing and from nowhere. At that period, our data team at Eveince[^5] was working on graph neural networks to build a better representation of texts for better understanding of financial advice given by experts on the internet[^6]. and I was reading about and thinking about graphs networks. But then I came to the conclusion that graphs inherently and generally are not a good tool to represent behaviour when they represent data and vice versa [^7]. 
 
-This wasn't a step toward a design, rather a step toward removing designs that don't work. This led me to read more and search more where I found almost all of the available network architectures empty of characteristics I was looking for, but then again small lights in the path like [this tweet]() from LeCunn kept me going. 
-![](/resources/Lecunn-tweet.png)
-Studying Deepmind and OpenAI works has also made me draw some predictions over the next months, not to feel good about my predictions but to see if I was right and current architectures are not what I'm looking for, this might help me to find the design.  [On the Edge #11](https://arjmandi.substack.com/p/on-the-edge-11). 
+This wasn't a step toward a design, rather a step toward removing designs that don't work. This led me to read more and search more where I found almost all of the available network architectures empty of characteristics I was looking for, but then again small lights in the path like this tweet from LeCunn kept me going. 
+
+![](/resources/Lecunn-tweet.png| width=100)
 
 
-On April 25th 2022, the ICLR 2022 was held. One of the most important events of introducing cutting-edge achievements in AI, sponsored by DeepMind, Google Research, Two Sigma, Microsoft, Meta, etc. DeepMind published an overview of their papers for ICLR in [this post](https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2022). And I started to see a convergence between my findings and what was reflected in the "[BOOTSTRAPPED META-LEARNING](https://openreview.net/pdf?id=b-ny3x071E5)". 
+Studying Deepmind and OpenAI works has also made me draw some predictions over the next months, not to feel good about my predictions but to see if I was right and current architectures are not what I'm looking for, this might help me to find the design[^8]. 
+
+
+On April 25th 2022, the ICLR 2022 was held. One of the most important events of introducing cutting-edge achievements in AI, sponsored by DeepMind, Google Research, Two Sigma, Microsoft, Meta, etc. (DeepMind's' overview of their papers for ICLR [^9]). And I started to see a convergence between my findings and what was reflected in the "Bootstrapped Meta-Learning[^10]." 
 
 I articulated my ideas as a basis for more research even though interesting works at the time like Gato and DALL-E were on a different path. They've progressed dramatically over the past year into new versions or models like PALM-E. I categorize them as new computation tools, and for AGI I took another direction which has been depicted here as Purple.
 
@@ -136,10 +139,10 @@ I articulated my ideas as a basis for more research even though interesting work
 [^5]: https://eveince.com
 [^6]: https://arxiv.org/abs/2211.16103
 [^7]: https://arjmandi.substack.com/p/on-the-edge-5
-[^8]:
-[^9]:
-[^]:
-[^]:
+[^8]: https://arjmandi.substack.com/p/on-the-edge-11
+[^9]: https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2022
+[^10]: https://openreview.net/pdf?id=b-ny3x071E5
+[^11]:
 [^]:
 [^]:
 [^]:
