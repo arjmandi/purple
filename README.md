@@ -9,12 +9,11 @@ Intelligence has various definitions in different domains[^1]: emotional, social
 Which one do we mean by general intelligence?
 
 DeepMind has come to the conclusion
-that to build intelligent "[Reward is enough](https://www.sciencedirect.com/science/article/pii/S0004370221000862)".
-OpenAI is more focused on scaling transformer models which has been summarized into "[Gradient descent can do it](https://twitter.com/sama/status/1638983750934724608)".
+that to build intelligent "Reward is enough"[^2].
+OpenAI is more focused on scaling transformer models which has been summarized into "Gradient descent can do it[^3]".
 And referring to the Turing test, DeepMind, OpenAI, Anthropic,
 Meta and others built systems that are indistinguishable from humans in a conversation to an extreme extent.
-Yet some of us don't consider them AGI[^].
-[openai and deepmind definitions of intelligence] 
+Yet it can be evidently argued that these are not AGI[^4].
 
 # Design concepts 
 I introduce three main concepts:
@@ -203,3 +202,17 @@ I articulated my ideas as a basis for more research even though interesting work
 
 
 [^1]: https://en.wikipedia.org/wiki/Intelligence
+[^2]: https://www.sciencedirect.com/science/article/pii/S0004370221000862
+[^3]: https://twitter.com/sama/status/1638983750934724608
+[^4]: https://www.nature.com/articles/s41562-022-01516-2
+[^]:
+[^]:
+[^]:
+[^]:
+[^]:
+[^]:
+[^]:
+[^]:
+[^]:
+[^]:
+[^]:
