@@ -128,7 +128,7 @@ This wasn't a step toward a design, rather a step toward removing designs that d
 <img src="/resources/Lecunn-tweet.png" width="600">
 </p>
 
-Studying DeepMind and OpenAI works has also made me draw some predictions over the next months, not to feel good about my predictions but to see if I was right and current architectures are not what I'm looking for, this might help me find the design [^8]. 
+Studying DeepMind and OpenAI works has also made me draw some predictions over the next months, not to feel good about my predictions but to test if I was right that current networks are not what we're looking for [^8]. 
 
 
 On April 25th 2022, the ICLR 2022 was held. One of the most important events of introducing cutting-edge achievements in AI, sponsored by DeepMind, Google Research, Two Sigma, Microsoft, Meta, etc. (DeepMind's' overview of their papers for ICLR [^9]). And I started to see a convergence between my findings and what was reflected in the "Bootstrapped Meta-Learning[^10]." 
