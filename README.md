@@ -133,7 +133,9 @@ Studying DeepMind and OpenAI works has also made me draw some predictions over t
 
 On April 25th 2022, the ICLR 2022 was held. One of the most important events of introducing cutting-edge achievements in AI, sponsored by DeepMind, Google Research, Two Sigma, Microsoft, Meta, etc. (DeepMind's' overview of their papers for ICLR [^9]). And I started to see a convergence between my findings and what was reflected in the "Bootstrapped Meta-Learning[^10]." 
 
-I articulated my ideas as a basis for more research even though interesting works at the time like Gato, DALL-E and GPT were on a different path.Those models progressed dramatically over the past year, and I was thinking maybe calling them computation models. And for AGI, I took another direction which has been depicted here as Purple.
+I articulated my ideas as a basis for more research even though interesting works at the time like Gato, DALL-E and GPT were on a different path. Those models progressed dramatically over the past year, but I was thinking maybe it's better to call them computation models. 
+
+And for AGI, I took another direction which has been depicted here as Purple.
 
 
 [^1]: https://en.wikipedia.org/wiki/Intelligence
