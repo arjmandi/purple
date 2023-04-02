@@ -9,8 +9,8 @@ Intelligence has various definitions in different domains[^1]: emotional, social
 Which one do we mean by general intelligence?
 
 DeepMind has come to the conclusion
-that to build intelligent "Reward is enough"[^1].
-OpenAI is more focused on scaling transformer models which has been summarized into "Gradient descent can do it[^1]".
+that to build intelligent "Reward is enough"[^2].
+OpenAI is more focused on scaling transformer models which has been summarized into "Gradient descent can do it[^3]".
 And referring to the Turing test, DeepMind, OpenAI, Anthropic,
 Meta and others built systems that are indistinguishable from humans in a conversation to an extreme extent.
 Yet it can be evidently argued that these are not AGI[^4].
@@ -145,9 +145,9 @@ In this design, I chose the population, based on this thought that a single huma
 
 Intelligence emerges from a population of models, not a single model. It's essential to have live models that each one has its own experiences and stories and has the ability to interact and communicate with other models. True intelligence emerges from this population of models, not a single model.
 
-For a counter design, LeCun's proposal[^5] is more focused on one powerful model and its general ability of learning, which is absolutely important but doesn't introduce a specific way for models to learn from each other.
+For a counter design, LeCun's proposal[^13] is more focused on one powerful model and its general ability of learning, which is absolutely important but doesn't introduce a specific way for models to learn from each other.
 
-**Second:** There's a famous paradox called the Moravec's Paradox[^6] which is being used robotics. The initial paradox says _"it is comparatively easy to make computers exhibit adult level performance on intelligence tests or playing checkers, and difficult or impossible to give them the skills of a one-year-old when it comes to perception and mobility."_
+**Second:** There's a famous paradox called the Moravec's Paradox[^14] which is being used robotics. The initial paradox says _"it is comparatively easy to make computers exhibit adult level performance on intelligence tests or playing checkers, and difficult or impossible to give them the skills of a one-year-old when it comes to perception and mobility."_
 
 
 **Third:** In a society, how do we prioritize our goals and wants against others?
@@ -161,13 +161,13 @@ For a counter design, LeCun's proposal[^5] is more focused on one powerful model
 [^4]: https://www.nature.com/articles/s41562-022-01516-2
 [^5]: https://eveince.com
 [^6]: https://www.hup.harvard.edu/catalog.php?isbn=9780674576186
-[^6]: https://arxiv.org/abs/2211.16103
-[^7]: https://arjmandi.substack.com/p/on-the-edge-5
-[^8]: https://arjmandi.substack.com/p/on-the-edge-11
-[^9]: https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2022
-[^10]: https://openreview.net/pdf?id=b-ny3x071E5
-[^11]: https://twitter.com/ylecun/status/1492604977260412928
-[^12]: https://openreview.net/pdf?id=BZ5a1r-kVsf
-[^]:
+[^7]: https://arxiv.org/abs/2211.16103
+[^8]: https://arjmandi.substack.com/p/on-the-edge-5
+[^9]: https://arjmandi.substack.com/p/on-the-edge-11
+[^10]: https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2022
+[^11]: https://openreview.net/pdf?id=b-ny3x071E5
+[^12]: https://twitter.com/ylecun/status/1492604977260412928
+[^13]: https://openreview.net/pdf?id=BZ5a1r-kVsf
+[^14]: https://www.hup.harvard.edu/catalog.php?isbn=9780674576186
 [^]:
 [^]:
