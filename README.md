@@ -177,5 +177,4 @@ Live Free Models (LFMs) inherently have the ability to create stories from thems
 [^12]: https://twitter.com/ylecun/status/1492604977260412928
 [^13]: https://openreview.net/pdf?id=BZ5a1r-kVsf
 [^14]: https://www.hup.harvard.edu/catalog.php?isbn=9780674576186
-[^]:
-[^]:
+
