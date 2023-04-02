@@ -1,5 +1,9 @@
 # Purple
 Outlining a model to implement AGI
+<p></p>
+<p align="center">
+<img src="/resources/banner.jpg" width="400">
+</p>
 ## Abstract
 This work is a speculation of a system or systems that allow the emergence of behaviors which can be considered as intelligent behavior. Although it might be more similar to a sci-fi story, but recent achievements and the research momentum on AGI, almost guarantee that many of these intelligent behaviors actually emerge from the tools we build.
 
