@@ -9,8 +9,8 @@ Intelligence has various definitions in different domains[^1]: emotional, social
 Which one do we mean by general intelligence?
 
 DeepMind has come to the conclusion
-that to build intelligent "Reward is enough"[^2].
-OpenAI is more focused on scaling transformer models which has been summarized into "Gradient descent can do it[^3]".
+that to build intelligent "Reward is enough"[^1].
+OpenAI is more focused on scaling transformer models which has been summarized into "Gradient descent can do it[^1]".
 And referring to the Turing test, DeepMind, OpenAI, Anthropic,
 Meta and others built systems that are indistinguishable from humans in a conversation to an extreme extent.
 Yet it can be evidently argued that these are not AGI[^4].
@@ -77,8 +77,12 @@ If we truly build AGI, it will have its own agenda, and we need to answer its ne
 
 It might have an answer for understanding the secrets of the universe or a way to travel to far galaxies, etc. And we might not understand how that answer works, but might also use it.
 
-## The name, Purple
+## The name, why Purple
+In this design I'm more twoard models where intelligence emereges from a population of models not a single models. I believe it's essential to have small live models that each one has its own experinces and stories and has the ability to interact and communicate with other models, and true intelligence emereges from that not a single model.
+I read from LeCun and respect him a lot but one of the key aspects missing in his proposal[^5] is that models should a have specifiec way to learn from eachother alongside their general ability of learning from the world. 
+
 Moravec paradox
+
 Purple contradictions amongst cohesion and cohisive. individual and society. want and need.
 
  
@@ -149,7 +153,7 @@ And for AGI, I took another direction which has been depicted here as Purple.
 [^9]: https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2022
 [^10]: https://openreview.net/pdf?id=b-ny3x071E5
 [^11]: https://twitter.com/ylecun/status/1492604977260412928
-[^]:
+[^12]: https://openreview.net/pdf?id=BZ5a1r-kVsf
 [^]:
 [^]:
 [^]:
