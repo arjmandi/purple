@@ -138,7 +138,7 @@ I articulated my ideas as a basis for more research even though interesting work
 And for AGI, I took another direction which has been depicted here as Purple.
 
 ## The name, why Purple
-I chose the name in March 2023, after over a year since it was started. There were three mysteries in my mind about this work that formed its identity for me:
+I chose the name in March 2023, after over a year since it was started. There were three mysteries about this work that formed its identity for me:
 
 **First:** What is the right design, one powerful model or a population of models?
 In this design, I chose the population, based on this thought that a single human wouldn't be intelligent if it was one baby on an isolated island. 
@@ -147,12 +147,20 @@ Intelligence emerges from a population of models, not a single model. It's essen
 
 For a counter design, LeCun's proposal[^13] is more focused on one powerful model and its general ability of learning, which is absolutely important but doesn't introduce a specific way for models to learn from each other.
 
-**Second:** There's a famous paradox called the Moravec's Paradox[^14] which is being used robotics. The initial paradox says _"it is comparatively easy to make computers exhibit adult level performance on intelligence tests or playing checkers, and difficult or impossible to give them the skills of a one-year-old when it comes to perception and mobility."_
+**Second:** There's a famous paradox called the Moravec's Paradox (1988)[^14]: _"it is comparatively easy to make computers exhibit adult level performance on intelligence tests or playing checkers, and difficult or impossible to give them the skills of a one-year-old when it comes to perception and mobility."_
+
+This paradox has been used by robotic researchers where they had difficulty in problems like coordinating hand-eye tasks while computers were really amazing at computation. 
+
+How can a model feel like us? and ultimately learn like us? Learning is the key to intelligence, but mimicking learning is not enough. So I came to this conclusion that our feelings are something that will stay unique to us humans. The way we interact with the world can be simulated, but it will never be how we do it. So this paradox should always be true at some level.
+
+**Third:** In a society, how do we prioritize our goals and wants against others? If we're living with others, where we rely on society rules and where we rely on morality? How do we value our thoughts and thoughts from other people?
+
+Answering this question is key to understanding our relationships. Our ability to make friends, start a conversation or living together. If an AI model directly doesn't address this, of course, to some extent, the model has not been successful in creating a stable population of models.
+
+Live Free Models (LFMs) inherently have the ability to create stories from themselves and learn stories from others. They create their own goals from those stories, and teach each other, and judge each other, and through these constant interactions they find solutions to problems. Then again, these solutions are incomplete and partial, but they cover a specific scope of a problem.
 
 
-**Third:** In a society, how do we prioritize our goals and wants against others?
-
-**Purple** I chose the name in March 2023, over a year after this work started because I felt Purple reflects how two different colors, blue and red, create a new color while they seem contradictory.
+**Purple** These mystries for me were full of contradictory concepts. I felt Purple reflects how two different colors, blue and red, create a new color while they seem contradictory.
 
 
 [^1]: https://en.wikipedia.org/wiki/Intelligence
