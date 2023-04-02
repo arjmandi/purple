@@ -60,30 +60,26 @@ Note: Our intelligence is collective. Curiosity in communication turns into bein
 
 ## Live Free Models
 Supposing having an implementation of these concepts, the resulting system comprises many models that are interacting together. I call each of these models a Live Free Model(LFM). Any LFM knows its objective at any given time and constantly is updating it.
-A set of LFMs form a Purple.
+A set of LFMs form something we call a **Purple.**
+
+## Purple
+A Purple is a set of LFMs which we can communicate with.
 
 ## How to use Purple
-Purple, or any other implementation of AGI is not a simple tool to use, it's like a person. 
+Purple, (or any other implementation of AGI) is different from normal tools we have. It can be simpler to use or more difficult. Like a person. 
 
-On the other hand, we also use humans.
-
-Ways we get what we want from a person:
+On the other hand, we sometimes use other humans.
+Some ways that come to mind when we want to get something from a person are:
 1. Using them, persuading them
 2. Trade with them
 3. Collaborate with them
-4. Serve them
+4. Serve them 
 
-If we truly build AGI, it will have its own agenda, and we need to answer its needs or give it what it wants or persuade it to give us answers. 
+etc.
 
-It might have an answer for understanding the secrets of the universe or a way to travel to far galaxies, etc. And we might not understand how that answer works, but might also use it.
+If we truly build AGI, it will have its own agenda, and we need to answer its needs or give it what it wants or persuade it to give us the answers. 
 
-## The name, why Purple
-In this design I'm more twoard models where intelligence emereges from a population of models not a single models. I believe it's essential to have small live models that each one has its own experinces and stories and has the ability to interact and communicate with other models, and true intelligence emereges from that not a single model.
-I read from LeCun and respect him a lot but one of the key aspects missing in his proposal[^5] is that models should a have specifiec way to learn from eachother alongside their general ability of learning from the world. 
-
-Moravec paradox
-
-Purple contradictions amongst cohesion and cohisive. individual and society. want and need.
+It might have an answer for understanding the secrets of the universe or a way to travel to far galaxies, etc. And we might not understand how that answer works, but we might also use it.
 
  
 ## Open Questions
@@ -141,12 +137,30 @@ I articulated my ideas as a basis for more research even though interesting work
 
 And for AGI, I took another direction which has been depicted here as Purple.
 
+## The name, why Purple
+I chose the name in March 2023, after over a year since it was started. There were three mysteries in my mind about this work that formed its identity for me:
+
+**First:** What is the right design, one powerful model or a population of models?
+In this design, I chose the population, based on this thought that a single human wouldn't be intelligent if it was one baby on an isolated island. 
+
+Intelligence emerges from a population of models, not a single model. It's essential to have live models that each one has its own experiences and stories and has the ability to interact and communicate with other models. True intelligence emerges from this population of models, not a single model.
+
+For a counter design, LeCun's proposal[^5] is more focused on one powerful model and its general ability of learning, which is absolutely important but doesn't introduce a specific way for models to learn from each other.
+
+**Second:** There's a famous paradox called the Moravec's Paradox[^6] which is being used robotics. The initial paradox says _"it is comparatively easy to make computers exhibit adult level performance on intelligence tests or playing checkers, and difficult or impossible to give them the skills of a one-year-old when it comes to perception and mobility."_
+
+
+**Third:** In a society, how do we prioritize our goals and wants against others?
+
+**Purple** I chose the name in March 2023, over a year after this work started because I felt Purple reflects how two different colors, blue and red, create a new color while they seem contradictory.
+
 
 [^1]: https://en.wikipedia.org/wiki/Intelligence
 [^2]: https://www.sciencedirect.com/science/article/pii/S0004370221000862
 [^3]: https://twitter.com/sama/status/1638983750934724608
 [^4]: https://www.nature.com/articles/s41562-022-01516-2
 [^5]: https://eveince.com
+[^6]: https://www.hup.harvard.edu/catalog.php?isbn=9780674576186
 [^6]: https://arxiv.org/abs/2211.16103
 [^7]: https://arjmandi.substack.com/p/on-the-edge-5
 [^8]: https://arjmandi.substack.com/p/on-the-edge-11
