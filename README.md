@@ -49,17 +49,16 @@ Note: Similarly, (or ironically), that's how we've been evaluating human intelli
 
 **Concept 2. story**: A story is a chain that articulate the dynamics inside a domain-set. For example, an intelligent person might be able to make sense of symbols in a math equation and see a way to prove it. An intelligent person might recognize the dynamics of a game, etc. 
 
-Each of these is an example of a domain-set. In any domain-set, there's a dynamic of how things are connected to each other and how we can exploit them to our benefit. When a system recognizes those dynamics, either by itself or by learning from others, it has the ability to turn what it has learned into a form called **story**. A story is an articulation of a finding. 
+Each of these is an example of a story. In any domain-set, there's a dynamic of how things are connected to each other and how we can exploit them to our benefit. When a system recognizes those dynamics, either by itself or by learning from others, it has the ability to turn what it has learned into a form called **story**. A story is an articulation of a finding. 
 
 Characteristics of stories:
 - Stories aren't complete, they're fragments, so they have no limitation in nature, but in implementation there might be limitations in terms of bytes or characters.
 - Stories can be received and understood but not bit by bit. Meaning that they aren't objective and absolute, they are subjective and relative. (Subjective Intelligence)
 - Stories find their own place in the receiver's knowledge base and build new connectors to understand more stories.
 - Stories can be used to communicate between AI models.
+- Stories are self-reinforcing. Meaning they form the understanding of a model, what it desires, what it considers good or bad.
 
-Stories are self-reinforcing. Meaning they form the understanding of a model, what it desires, what it considers good or bad.
-
-**Concept 3.** One human can be supersmart still won't do much on earth, but a collection of humans plus time, will be change the world. Some examples of previous works in AI and algorithm design that addressed this concept are: agent-oriented design, particle swarm analysis, ant colont, etc. But almost all of them neglect the value of one small idea while that’s actually how humanity works.
+**Concept 3.** One human can be supersmart still won't do much on earth, but a collection of humans plus time, will change the world. Some examples of previous works in AI and algorithm design that addressed this concept are: agent-oriented design, particle swarm analysis, ant colony, etc. But almost all of them neglect the impact of "one small idea" while that’s actually how humanity works. So in this proposal we emphasize on how important is "herd mentality" in human intelligence. Something seems to be very cheap but actualy very important. 
 
 Note: Our intelligence is collective. Curiosity in communication turns into being noisy; if there's a collective model with no amount of being noisy, there's no curiosity inside.
 
@@ -82,7 +81,7 @@ Some ways that come to mind when we want to get something from a person are:
 
 etc.
 
-If we truly build AGI, it will have its own agenda, and we need to answer its needs or give it what it wants or persuade it to give us the answers. 
+If we truly build AGI, it will have its own agenda, and we need to answer it needs or give it what it wants or persuade it to give us the answers. 
 
 It might have an answer for understanding the secrets of the universe or a way to travel to far galaxies, etc. And we might not understand how that answer works, but we might also use it.
 
@@ -100,17 +99,18 @@ How each person builds its understanding and starts to generalize
 9. Giving positive bias to weird ideas
 10. What intelligence are we building? Dumb, normal, intelligent
 11. When we decide to believe someone/something? (how do we decide in the mafia game)
+12. Where do we have important problem solving capabilities like [top-dowm/bottom-up](https://en.wikipedia.org/wiki/Bottom%E2%80%93up_and_top%E2%80%93down_design) analysis? 
 
 
 ## AGI Test
-As discussed in C0, intelligence is based on our perception and from our perception a model like GPT-4 can be considered intelligent.
+As discussed in C1, intelligence is based on our perception and from our perception a model like GPT-4 can be considered intelligent.
 I define a threshold that surpassing that indicates AGI.
 A system is AGI not when it's indistinguishable from a human in conversation but when it can design another AGI. 
 
-For example, Since GPT-4 can't build another AGI, it's not AGI.
+e.g. since GPT-4 can't build another AGI, it's not AGI.
 
-This definition seems so simple that I believe somebody else has thought about it before. So in that case, I too give my vote to this definition of AGI.
-There's also and ultimate version of this test where a system autonomously and independently came to conclusion to build another system to delegate computation to it. (without a prompt or ask)
+This definition seems simple enough that I believe somebody else has thought about it before. So in that case, I'm not the first one who has thought about it but I vote for this definition of AGI.
+(There's also and ultimate version of this test where a system autonomously and independently came to conclusion to build another system to delegate computation to it. (without a prompt or ask))
 
 # Vision papers
 What is a vision paper?
