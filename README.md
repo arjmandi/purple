@@ -165,7 +165,7 @@ Answering this question is key to understanding our relationships. Our ability t
 Live Free Models (LFMs) inherently have the ability to create stories from themselves and learn stories from others. They create their own goals from those stories, and teach each other, and judge each other, and through these constant interactions they find solutions to problems. Then again, these solutions are incomplete and partial, but they cover a specific scope of a problem.
 
 
-**Purple** These mystries for me were full of contradictory concepts. I felt Purple reflects how two different colors, blue and red, create a new color while they seem contradictory.
+**Purple:** These mystries for me were full of contradictory concepts. I felt Purple reflects how two different colors, blue and red, create a new color while they seem contradictory.
 
 
 [^1]: https://en.wikipedia.org/wiki/Intelligence
