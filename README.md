@@ -44,13 +44,13 @@ I expand that definition to a broader one: A system is intelligent if we **perce
 
 Alternatively: A system is not inherently intelligent, it's intelligent if we sense it's intelligent.
 
-**Principle 2.** Explainability: Designing AGI is by itself hard and embedding explainability from the beginning makes adds unnecessary complexity.
+**Principle 2.** Explainability: Designing AGI is by itself hard and embedding explainability from the beginning adds unnecessary complexity.
 The fact that we humans, as a benchmark of intelligence, struggles to explain why we do something is the core of this unnecessary complexity.
 Also, the non-deterministic nature of our decision-making process is a key for intelligence. (e.g. Even most sophisticated humans might do unreasonable things).
 On the other hand, I believe if you don't see unexpected behavior from a system, there's no curiosity in the behavior of that system. And if curiosity is important for intelligence, then lack of unexpected behavior means there's no intelligence (Artificial Curiosity).
 So I will exclude explainability from this research and propose to use control mechanisms that help us stay safe rather than having a white-boxed explanation of an AI decision-making process.
 
-**Concept 1.** Our intelligence is limited to "**domain-sets**": meaning we can't apply the same amount of intelligence to everything in life. Someone might be exceptional with her muscle memory in playing the piano but not very sharp in understanding chemistry or even not as good with another instrument like a guitar. A high-IQ person might be a distinguished scientist but normally not able perform a complex surgery. 
+**Concept 1. domain-set** Our intelligence is limited to "**domain-sets**": meaning we can't apply the same amount of intelligence to everything in life. Someone might be exceptional with her muscle memory in playing the piano but not very sharp in understanding chemistry or even not as good with another instrument like a guitar. A high-IQ person might be a distinguished scientist but normally not able perform a complex surgery. 
 
 Characteristics of domain-sets:
 - Everyone can introduce their own domain-sets. I (or this model) don't define domain-sets.
@@ -59,7 +59,7 @@ Characteristics of domain-sets:
 Defining domain-sets is outside the boundaries of this design. And I'm not using domain-sets to test if a system is AGI or not. Later on, I introduce a broader test to detect AGI.
 The role of domain-sets in this design is to distinguish and respect different types of intelligence and not limit the definition of intelligence to this design or to some tasks. 
 
-My aim is to have as many scoring systems as we can over different domain-sets by many researchers and turn measuring intelligence into an endless research topic. Meanwhile, design a system that we think can be intelligent in practice. Additionally, defining domain-sets allows having concepts like "foolish intelligent": an entity that we consider intelligent but still call it foolish in certain situations.
+My aim is to have as many scoring systems as we can, over different domain-sets by many researchers and turn measuring intelligence into an endless research topic. Meanwhile, design a system that we think can be intelligent in practice. Additionally, defining domain-sets allows having concepts like "foolish intelligent": an entity that we consider intelligent but still call it foolish in certain situations.
 
 Note: Similarly, (or ironically), that's how we've been evaluating human intelligence with different intelligence tests, e.g. the IQ tests.
 
@@ -67,29 +67,28 @@ Note: Similarly, (or ironically), that's how we've been evaluating human intelli
 
 Each of these is an example of a story. In any domain-set, there's a dynamic of how things are connected to each other and how we can exploit them to our benefit. When a system recognizes those dynamics, either by itself or by learning from others, it has the ability to turn what it has learned into a form called **story**. A story is an articulation of a finding. 
 
-Characteristics of stories:
+**** Design Principles of stories****
 - Stories aren't complete, they're fragments, so they have no limitation in nature, but in implementation there might be limitations in terms of bytes or characters.
 - Stories can be received and understood but not bit by bit. Meaning that they aren't objective and absolute, they are subjective and relative. (Subjective Intelligence)
 - Stories find their own place in the receiver's knowledge base and build new connectors to understand more stories.
-- Stories can be used to communicate between AI models.
+- Stories are used to communicate between AI models.
 - Stories are self-reinforcing. Meaning they form the understanding of a model, what it desires, what it considers good or bad.
 
-**Concept 3.** One human can be supersmart still won't do much on earth, but a collection of humans plus time, will change the world. Some examples of previous works in AI and algorithm design that addressed this concept are: agent-oriented design, particle swarm analysis, ant colony, etc. But almost all of them neglect the impact of "one small idea" while that’s actually how humanity works. So in this proposal we emphasize on how important is "herd mentality" in human intelligence. Something seems to be very cheap but actualy very important. 
+**Concept 3. collective intelligence** One human can be supersmart still won't do much on earth, but a collection of humans plus time, will change the world. Some examples of previous works in AI and algorithm design that addressed this concept are: agent-oriented design, particle swarm analysis, ant colony, etc. But almost all of them neglect the impact of "one small idea". It means that an idea of a single person can do a lot but usually in collaborative systems it's hard to give higher wights to one idea. While that’s actually how humanity works. So in this proposal we emphasize on how important is "herd mentality" in human intelligence. Something seems to be very cheap but actualy very important. It's the "herd mentality" that makes single idea bold enough.
 
-Note: Our intelligence is collective. Curiosity in communication turns into being noisy; if there's a collective model with no amount of being noisy, there's no curiosity inside.
+Note: Curiosity in communication turns into noise; if there's a collective model with not enough noise, it's a very bad sign. 
 
 ## Live Free Models
-Supposing having an implementation of these concepts, the resulting system comprises many models that are interacting together. I call each of these models a Live Free Model(LFM). Any LFM knows its objective at any given time and constantly is updating it.
+Supposing to have an implementation of these concepts, the resulting system comprises a set of models that are interacting together. I call each of these models a Live Free Model(LFM). Any LFM knows its objective at any given time and constantly is updating it.
 A set of LFMs form something we call a **Purple.**
 
 ## Purple
-A Purple is a set of LFMs which we can communicate with.
+A Purple is a set of LFMs. We can also communicate with each Purple.
 
 ## How to use Purple
-Purple, (or any other implementation of AGI) is different from normal tools we have. It can be simpler to use or more difficult. Like a person. 
+Purple, (or any other implementation of AGI) is different from normal tools we have. It can be difficult to interact with, like a human. 
 
-On the other hand, we sometimes use other humans.
-Some ways that come to mind when we want to get something from a person are:
+Some ways that come to mind when we want to interact with someone:
 1. Using them, persuading them
 2. Trade with them
 3. Collaborate with them
