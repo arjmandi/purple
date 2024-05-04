@@ -6,7 +6,7 @@ Outlining a model to implement AGI
 </p>
 
 ## Abstract
-This work is a speculation of a system or systems that allow the emergence of behaviors which can be considered as intelligent behavior. Although it might be more similar to a sci-fi story, but recent achievements and the research momentum on AGI, almost guarantee that many of these intelligent behaviors actually emerge from the tools we build.
+This work is a speculation of a system or systems that allow the emergence of behaviors which are considered as intelligent behavior. Although it might be more similar to a sci-fi story, but recent achievements and the research momentum on AGI, almost guarantee that many intelligent behaviors are actually emerging from the tools we build.
 
 _- The true value of science fiction to me is that it permits speculation (Asimov)_
 ## Introduction
@@ -20,8 +20,24 @@ And referring to the Turing test, DeepMind, OpenAI, Anthropic,
 Meta and others built systems that are indistinguishable from humans in a conversation to an extreme extent.
 Yet it can be evidently argued that these are not AGI[^4].
 
+Current DL models (LLMs by extension) are working on this simplified scenario:
+DL: I can best learn on your parameters
+Scientist: But that's overfitting, I want you to learn new things
+DL: Show me the new things, I will learn them too
+Scientist: What if I don't know what I don't know?
+DL: !
+
+In Persian we call this question "Compound Ignorance" or "Compund Nescience" (جهل مرکب)
+
+All the work in unsupervised learning and re-inforcement learning are efforts to build an agent that can learn by itself so it can solve Compound Ignorance.  Other research areas like active leanring[^12], RLHF and similar areas are just technics to fill this gap in the problem modeling.
+The root cause of this gap is in the way we're designing benchmarks and we train our models to beat those benchmarks. 
+Our neural network design depends on a mathematical evaluation of a loss function.
+Any approach based on this evaluation will end up as the DL scenario and won't be able to solve Compound Ignorance.
+
+If we want new type of intelligence, we need another type of evaluation.
+
 ## Design concepts 
-I introduce principal elements and core concepts to later on propose the initial design, but I don't know deeply what are the ways to implement these principals and concepts:
+I introduce principal elements and core concepts to later on propose the initial design, but I don't have the concreate implementation of these principals and concepts:
 
 **Principle 1.** I define **intelligence** as a subjective and relative phenomena. It's our perception of intelligence that matters. The base idea comes from the Turing test.
 I expand that definition to a broader one: A system is intelligent if we **perceive** intelligence from it.
@@ -110,7 +126,7 @@ A system is AGI not when it's indistinguishable from a human in conversation but
 e.g. since GPT-4 can't build another AGI, it's not AGI.
 
 This definition seems simple enough that I believe somebody else has thought about it before. So in that case, I'm not the first one who has thought about it but I vote for this definition of AGI.
-(There's also and ultimate version of this test where a system autonomously and independently came to conclusion to build another system to delegate computation to it. (without a prompt or ask))
+There's also an ultimate version of this test where a system autonomously and independently came to conclusion to build another system to delegate computation to it. (without a prompt or ask)
 
 # Vision papers
 What is a vision paper?
@@ -179,6 +195,7 @@ Live Free Models (LFMs) inherently have the ability to create stories from thems
 [^9]: https://arjmandi.substack.com/p/on-the-edge-11
 [^10]: https://www.deepmind.com/blog/deepminds-latest-research-at-iclr-2022
 [^11]: https://openreview.net/pdf?id=b-ny3x071E5
+[^12]: https://en.wikipedia.org/wiki/Active_learning_(machine_learning)
 [^12]: https://twitter.com/ylecun/status/1492604977260412928
 [^13]: https://openreview.net/pdf?id=BZ5a1r-kVsf
 [^14]: https://www.hup.harvard.edu/catalog.php?isbn=9780674576186
