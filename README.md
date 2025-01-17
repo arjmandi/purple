@@ -21,11 +21,11 @@ Meta and others built systems that are indistinguishable from humans in a conver
 Yet it can be evidently argued that these are not AGI[^4].
 
 Current DL models (LLMs by extension) are working on this simplified scenario:
-DL: I can best learn on your parameters
-Scientist: But that's overfitting, I want you to learn new things
-DL: Show me the new things, I will learn them too
-Scientist: What if I don't know what I don't know?
-DL: !
+- DL: I can best learn on your parameters
+- Scientist: But that's overfitting, I want you to learn new things
+- DL: Show me the new things, I will learn them too
+- Scientist: What if I don't know what I don't know?
+- DL: !
 
 In Persian we call this question "Compound Ignorance" or "Compund Nescience" (جهل مرکب)
 
@@ -42,7 +42,7 @@ I introduce principal elements and core concepts to later on propose the initial
 **Principle 1.** I define **intelligence** as a subjective and relative phenomena. It's our perception of intelligence that matters. The base idea comes from the Turing test.
 I expand that definition to a broader one: A system is intelligent if we **perceive** intelligence from it.
 
-Alternatively: A system is not inherently intelligent, it's intelligent if we sense it's intelligent.
+Alternatively: A system is not inherently intelligent, it's intelligent if we sense its intelligence.
 
 **Principle 2.** Explainability: Designing AGI is by itself hard and embedding explainability from the beginning adds unnecessary complexity.
 The fact that we humans, as a benchmark of intelligence, struggles to explain why we do something is the core of this unnecessary complexity.
